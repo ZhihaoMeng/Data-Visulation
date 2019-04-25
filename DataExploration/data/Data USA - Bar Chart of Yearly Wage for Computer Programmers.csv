@@ -1,0 +1,1435 @@
+year,soc_name,soc,avg_wage,avg_wage_moe,avg_wage_rank
+2016,"Physicians & surgeons","291060",227381.0,3375.9,1.0
+2015,"Physicians & surgeons","291060",216097.0,3457.15,1.0
+2014,"Physicians & surgeons","291060",207834.0,3131.0,1.0
+2016,"Chief executives & legislators","1110XX",167107.0,2708.51,2.0
+2015,"Dentists","291020",165731.0,6191.58,2.0
+2016,"Dentists","291020",164756.0,6637.82,3.0
+2014,"Dentists","291020",162761.0,6977.28,2.0
+2015,"Chief executives & legislators","1110XX",162724.0,2631.55,3.0
+2014,"Podiatrists","291081",156073.0,28174.3,3.0
+2015,"Nurse anesthetists","291151",155320.0,9268.17,4.0
+2016,"Lawyers, & judges, magistrates, & other judicial workers","2310XX",155300.0,2784.55,4.0
+2014,"Chief executives & legislators","1110XX",153964.0,2442.91,4.0
+2016,"Petroleum, mining & geological engineers, including mining safety engineers","1721XX",153268.0,15041.9,5.0
+2014,"Nurse anesthetists","291151",152778.0,8171.75,5.0
+2015,"Lawyers, & judges, magistrates, & other judicial workers","2310XX",151638.0,2874.45,5.0
+2016,"Podiatrists","291081",151142.0,23119.6,6.0
+2016,"Actuaries","152011",150189.0,24983.0,7.0
+2015,"Podiatrists","291081",149906.0,27679.4,6.0
+2014,"Lawyers, & judges, magistrates, & other judicial workers","2310XX",149144.0,2632.88,6.0
+2016,"Nurse anesthetists","291151",148349.0,6856.04,8.0
+2016,"Architectural & engineering managers","119041",147789.0,4431.64,9.0
+2015,"Architectural & engineering managers","119041",145556.0,4571.51,7.0
+2014,"Architectural & engineering managers","119041",143592.0,3987.72,7.0
+2016,"Securities, commodities, & financial services sales agents","413031",142171.0,6591.25,10.0
+2015,"Securities, commodities, & financial services sales agents","413031",137112.0,7070.29,8.0
+2015,"Petroleum, mining & geological engineers, including mining safety engineers","1721XX",135251.0,12309.7,9.0
+2016,"Personal financial advisors","132052",133515.0,4871.47,11.0
+2014,"Petroleum, mining & geological engineers, including mining safety engineers","1721XX",133053.0,9186.02,8.0
+2015,"Economists","193011",129207.0,13956.0,10.0
+2014,"Securities, commodities, & financial services sales agents","413031",128574.0,6147.1,9.0
+2015,"Actuaries","152011",128374.0,13065.7,11.0
+2016,"Economists","193011",127219.0,13198.5,12.0
+2014,"Actuaries","152011",127003.0,8097.66,10.0
+2016,"Sales engineers","419031",126401.0,8694.53,13.0
+2015,"Personal financial advisors","132052",125787.0,4598.16,12.0
+2014,"Personal financial advisors","132052",125046.0,4735.72,11.0
+2016,"Aircraft pilots & flight engineers","532010",122271.0,5029.67,14.0
+2014,"Economists","193011",119430.0,13868.0,12.0
+2015,"Aircraft pilots & flight engineers","532010",118880.0,4768.45,13.0
+2014,"Aircraft pilots & flight engineers","532010",116347.0,4817.98,13.0
+2016,"Optometrists","291041",115750.0,8131.44,15.0
+2015,"Astronomers & physicists","192010",115694.0,26860.1,14.0
+2016,"Computer & information systems managers","113021",113720.0,1881.99,16.0
+2016,"Financial analysts","132051",113085.0,5726.83,17.0
+2015,"Chemical engineers","172041",109748.0,6495.28,15.0
+2015,"Computer & information systems managers","113021",109153.0,1849.03,16.0
+2015,"Sales engineers","419031",109139.0,6913.38,17.0
+2016,"Computer & information research scientists","151111",107933.0,12126.7,18.0
+2014,"Sales engineers","419031",107157.0,7133.58,14.0
+2015,"Optometrists","291041",106963.0,7853.94,18.0
+2015,"Financial analysts","132051",106924.0,4161.6,19.0
+2016,"Aerospace engineers","172011",106889.0,2453.94,19.0
+2014,"Computer & information systems managers","113021",106766.0,1721.6,15.0
+2016,"Software developers, applications & systems software","15113X",105609.0,1123.31,20.0
+2016,"Chemical engineers","172041",105524.0,5355.59,21.0
+2014,"Optometrists","291041",104699.0,7553.48,16.0
+2014,"Financial analysts","132051",103663.0,4892.26,17.0
+2014,"Chemical engineers","172041",103542.0,4689.12,18.0
+2015,"Aerospace engineers","172011",102563.0,3012.8,20.0
+2016,"Financial managers","113031",102050.0,1935.33,22.0
+2014,"Compensation & benefits managers","113111",101856.0,21144.3,19.0
+2016,"Computer network architects","151143",101789.0,2852.16,23.0
+2014,"Computer & information research scientists","151111",101382.0,8024.92,20.0
+2016,"Marketing & sales managers","112020",101005.0,1986.23,24.0
+2016,"Natural sciences managers","119121",100462.0,9354.59,25.0
+2014,"Aerospace engineers","172011",100313.0,3108.48,21.0
+2016,"Pharmacists","291051",100205.0,2433.31,26.0
+2015,"Financial managers","113031",100194.0,1914.32,21.0
+2016,"Astronomers & physicists","192010",99444.7,10587.1,27.0
+2016,"Veterinarians","291131",99443.1,6989.1,28.0
+2015,"Software developers, applications & systems software","15113X",99143.6,1068.24,22.0
+2016,"Computer hardware engineers","172061",98944.0,5995.99,29.0
+2015,"Pharmacists","291051",98727.7,2148.67,23.0
+2015,"Computer hardware engineers","172061",98691.2,4393.16,24.0
+2014,"Software developers, applications & systems software","15113X",98602.0,1118.71,22.0
+2016,"Miscellaneous engineers, including nuclear engineers","1721YY",98267.6,1732.66,30.0
+2015,"Marketing & sales managers","112020",98249.8,1704.82,25.0
+2015,"Natural sciences managers","119121",98240.6,10897.9,26.0
+2015,"Veterinarians","291131",97745.7,6692.95,27.0
+2016,"Management analysts","131111",97506.8,1750.38,31.0
+2016,"Electrical & electronics engineers","172070",97092.6,2090.51,32.0
+2015,"Environmental scientists & geoscientists","192040",97068.6,7047.59,28.0
+2015,"Electrical & electronics engineers","172070",96877.9,2094.45,29.0
+2014,"Marketing & sales managers","112020",96675.2,1919.42,23.0
+2015,"Computer network architects","151143",96596.8,2693.53,30.0
+2016,"Physician assistants","291071",96475.4,3147.51,33.0
+2014,"Pharmacists","291051",95928.3,1978.51,24.0
+2014,"Financial managers","113031",95852.5,1900.02,25.0
+2015,"Miscellaneous engineers, including nuclear engineers","1721YY",95825.5,1555.64,31.0
+2014,"Financial examiners","132061",95736.6,22076.6,26.0
+2014,"Computer hardware engineers","172061",95714.0,5790.28,27.0
+2016,"Information security analysts","151122",95713.5,3736.48,34.0
+2014,"Computer network architects","151143",95684.3,3111.27,28.0
+2016,"Firstline supervisors of fire fighting & prevention workers","331021",95252.5,3004.53,35.0
+2014,"Electrical & electronics engineers","172070",95203.1,2126.4,29.0
+2015,"Financial examiners","132061",94853.9,11519.2,32.0
+2016,"Miscellaneous managers","119XXX",94622.8,803.099,36.0
+2014,"Environmental scientists & geoscientists","192040",94512.4,5082.91,30.0
+2014,"Natural sciences managers","119121",93228.5,9720.59,31.0
+2016,"Other financial specialists","132099",92871.9,9509.29,37.0
+2014,"Miscellaneous engineers, including nuclear engineers","1721YY",92575.6,1367.26,32.0
+2015,"Miscellaneous managers","119XXX",92300.6,879.681,33.0
+2016,"Nurse practitioners & nurse midwives","2911XX",92149.1,2159.14,38.0
+2015,"Nurse practitioners & nurse midwives","2911XX",91939.0,2752.01,34.0
+2015,"Management analysts","131111",91653.7,1725.12,35.0
+2016,"Financial examiners","132061",91225.1,11749.2,39.0
+2014,"Other financial specialists","132099",91166.1,7761.45,33.0
+2014,"Veterinarians","291131",90928.6,4172.61,34.0
+2016,"Marine engineers & naval architects","172121",90805.6,5412.98,40.0
+2014,"Management analysts","131111",90697.1,1671.71,35.0
+2016,"Chiropractors","291011",90605.0,9622.17,41.0
+2015,"Information security analysts","151122",90440.3,4350.47,36.0
+2015,"Other financial specialists","132099",90387.1,6884.76,37.0
+2016,"Civil engineers","172051",90160.7,2113.8,42.0
+2015,"Miscellaneous mathematical science occupations, including mathematicians & statisticians","1520XX",90093.8,5640.99,38.0
+2014,"Chiropractors","291011",90075.8,9515.94,36.0
+2014,"Miscellaneous managers","119XXX",90003.9,961.561,37.0
+2015,"Medical scientists, & life scientists, all other","1910XX",89889.3,3852.47,39.0
+2014,"Nurse practitioners & nurse midwives","2911XX",89773.6,2835.9,38.0
+2016,"Medical scientists, & life scientists, all other","1910XX",89710.4,3517.95,43.0
+2014,"Elevator installers & repairers","474021",89569.9,7243.32,39.0
+2015,"Architects, except naval","171010",89317.1,4356.47,40.0
+2015,"Power plant operators, distributors, & dispatchers","518010",89249.5,3264.38,41.0
+2016,"Public relations & fundraising managers","112031",89153.1,4402.6,44.0
+2015,"Physician assistants","291071",88963.1,2695.08,42.0
+2015,"Firstline supervisors of fire fighting & prevention workers","331021",88820.0,3335.22,43.0
+2014,"Medical scientists, & life scientists, all other","1910XX",88246.7,4974.28,40.0
+2016,"Air traffic controllers & airfield operations specialists","532020",88118.5,5844.85,45.0
+2014,"Astronomers & physicists","192010",88095.0,8246.29,41.0
+2015,"Marine engineers & naval architects","172121",87735.8,5964.03,44.0
+2014,"Information security analysts","151122",87706.9,4708.11,42.0
+2016,"General & operations managers","111021",87454.4,1404.19,46.0
+2014,"Physician assistants","291071",87402.3,3180.07,43.0
+2016,"Environmental scientists & geoscientists","192040",87246.8,4932.47,47.0
+2014,"Firstline supervisors of fire fighting & prevention workers","331021",86985.1,4014.83,44.0
+2016,"Firstline supervisors of nonretail sales workers","411012",86619.2,1985.88,48.0
+2015,"Civil engineers","172051",86538.6,2034.62,45.0
+2016,"Compensation & benefits managers","113111",86145.3,8130.19,49.0
+2014,"Public relations & fundraising managers","112031",86040.9,5790.86,45.0
+2016,"Mechanical engineers","172141",85633.8,1565.65,50.0
+2016,"Miscellaneous mathematical science occupations, including mathematicians & statisticians","1520XX",85612.1,5096.99,51.0
+2015,"General & operations managers","111021",85517.3,1557.79,46.0
+2014,"Biomedical & agricultural engineers","1720XX",85516.6,7695.06,46.0
+2016,"Power plant operators, distributors, & dispatchers","518010",85484.8,3708.11,52.0
+2016,"Industrial production managers","113051",85343.3,2227.92,53.0
+2016,"Medical & health services managers","119111",85326.2,1901.22,54.0
+2014,"Industrial production managers","113051",85102.5,2774.9,47.0
+2016,"Computer programmers","151131",85018.5,1622.78,55.0
+2015,"Materials engineers","172131",84780.4,4317.96,47.0
+2014,"Civil engineers","172051",84747.4,1652.88,48.0
+2015,"Air traffic controllers & airfield operations specialists","532020",84584.2,4373.26,48.0
+2014,"General & operations managers","111021",84467.2,1403.36,49.0
+2016,"Biomedical & agricultural engineers","1720XX",84404.7,5217.32,56.0
+2015,"Mechanical engineers","172141",84106.8,1694.12,49.0
+2015,"Industrial production managers","113051",83549.4,2002.92,50.0
+2015,"Computer & information research scientists","151111",83529.7,7550.9,51.0
+2015,"Firstline supervisors of nonretail sales workers","411012",83282.5,1748.04,52.0
+2016,"Environmental engineers","172081",83249.5,4804.53,57.0
+2016,"Firstline supervisors of police & detectives","331012",83202.0,2552.83,58.0
+2014,"Power plant operators, distributors, & dispatchers","518010",83188.5,3971.48,50.0
+2016,"Human resources managers","113121",83137.9,2103.75,59.0
+2015,"Compensation & benefits managers","113111",83102.3,8024.1,53.0
+2016,"Construction managers","119021",82912.4,1835.12,60.0
+2015,"Medical & health services managers","119111",82878.6,1822.61,54.0
+2014,"Miscellaneous mathematical science occupations, including mathematicians & statisticians","1520XX",82847.5,5252.78,51.0
+2016,"Atmospheric & space scientists","192021",82845.0,13257.9,61.0
+2016,"Architects, except naval","171010",82792.8,2640.2,62.0
+2016,"Purchasing managers","113061",82744.7,2148.4,63.0
+2014,"Medical & health services managers","119111",82604.1,1690.48,52.0
+2014,"Air traffic controllers & airfield operations specialists","532020",82581.2,6092.18,53.0
+2016,"Market research analysts & marketing specialists","131161",82577.9,2999.21,64.0
+2016,"Industrial engineers, including health & safety","172110",82576.4,2244.36,65.0
+2015,"Computer programmers","151131",82484.0,1551.9,55.0
+2016,"Elevator installers & repairers","474021",82482.2,6155.07,66.0
+2016,"Materials engineers","172131",82428.1,2817.81,67.0
+2015,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining","4750YY",82394.4,9198.89,56.0
+2014,"Materials engineers","172131",82322.3,3856.06,54.0
+2015,"Locomotive engineers & operators","534010",82285.2,3043.67,57.0
+2015,"Human resources managers","113121",82273.5,1904.31,58.0
+2014,"Atmospheric & space scientists","192021",82131.4,10702.7,55.0
+2016,"Computer systems analysts","151121",82103.2,1464.35,68.0
+2014,"Purchasing managers","113061",82101.9,2631.45,56.0
+2015,"Operations research analysts","152031",81954.0,2035.88,59.0
+2014,"Architects, except naval","171010",81950.3,4054.86,57.0
+2015,"Public relations & fundraising managers","112031",81796.6,4306.32,60.0
+2015,"Producers & directors","272012",81629.2,4419.68,61.0
+2015,"Firstline supervisors of police & detectives","331012",81596.6,2460.91,62.0
+2014,"Computer systems analysts","151121",81465.3,1766.22,58.0
+2016,"Producers & directors","272012",81436.4,4962.14,69.0
+2016,"Sales representatives, services, all other","413099",81306.2,1854.82,70.0
+2016,"Other Physical Scientists","192099",81162.6,2574.71,71.0
+2016,"Operations research analysts","152031",81043.4,1941.63,72.0
+2015,"Purchasing managers","113061",80989.6,2116.73,63.0
+2014,"Environmental engineers","172081",80846.5,5405.24,59.0
+2015,"Computer systems analysts","151121",80819.1,1494.92,64.0
+2016,"Advertising & promotions managers","112011",80813.9,5030.05,73.0
+2014,"Computer programmers","151131",80673.6,1575.09,60.0
+2014,"Human resources managers","113121",80673.4,2277.8,61.0
+2015,"Biomedical & agricultural engineers","1720XX",80555.8,5687.89,65.0
+2014,"Firstline supervisors of nonretail sales workers","411012",80458.2,1426.48,62.0
+2015,"Chiropractors","291011",80306.5,8568.71,66.0
+2015,"Budget analysts","132031",80073.0,4072.56,67.0
+2016,"Sales representatives, wholesale & manufacturing","414010",79970.6,1088.28,74.0
+2014,"Marine engineers & naval architects","172121",79826.5,4956.63,63.0
+2016,"Geological & petroleum technicians, & nuclear technicians","1940XX",79763.2,7529.73,75.0
+2015,"Other Physical Scientists","192099",79721.1,2573.95,68.0
+2016,"Public relations specialists","273031",79587.2,3925.56,76.0
+2016,"Locomotive engineers & operators","534010",79519.5,2703.72,77.0
+2016,"Detectives & criminal investigators","333021",79466.5,2640.55,78.0
+2016,"Database administrators","151141",79398.0,2788.77,79.0
+2015,"Construction managers","119021",79336.8,1829.42,69.0
+2014,"Industrial engineers, including health & safety","172110",79333.9,2068.74,64.0
+2014,"Mechanical engineers","172141",79258.7,1657.17,65.0
+2016,"Chemists & materials scientists","192030",78992.7,3632.96,80.0
+2016,"Compliance officers","131041",78904.0,2619.17,81.0
+2015,"Market research analysts & marketing specialists","131161",78751.9,2877.38,70.0
+2015,"Database administrators","151141",78414.9,2695.73,71.0
+2014,"Firstline supervisors of police & detectives","331012",78408.0,2520.49,66.0
+2014,"Operations research analysts","152031",78381.4,1964.19,67.0
+2016,"Training & development managers","113131",78102.7,5579.01,82.0
+2016,"Radiation therapists","291124",78011.8,4713.03,83.0
+2014,"Construction managers","119021",77989.2,1614.58,68.0
+2016,"Other financial clerks","433099",77932.6,4097.14,84.0
+2015,"Environmental engineers","172081",77927.8,4770.89,72.0
+2015,"Atmospheric & space scientists","192021",77766.5,9218.79,73.0
+2015,"Chemists & materials scientists","192030",77570.2,3918.37,74.0
+2014,"Other Physical Scientists","192099",77491.1,2517.97,69.0
+2014,"Locomotive engineers & operators","534010",77453.6,2642.54,70.0
+2015,"Elevator installers & repairers","474021",77362.5,4577.02,75.0
+2015,"Industrial engineers, including health & safety","172110",77332.8,1854.38,76.0
+2015,"Sales representatives, services, all other","413099",77215.5,2287.82,77.0
+2015,"Sales representatives, wholesale & manufacturing","414010",77200.3,1223.0,78.0
+2014,"Public relations specialists","273031",77147.8,4826.87,71.0
+2016,"Advertising sales agents","413011",77106.5,4662.64,85.0
+2014,"Market research analysts & marketing specialists","131161",76918.1,3013.68,72.0
+2015,"Detectives & criminal investigators","333021",76917.8,1929.42,79.0
+2016,"Ship & boat captains & operators","535020",76656.1,6233.61,86.0
+2015,"Advertising & promotions managers","112011",76569.7,5210.11,80.0
+2014,"Training & development managers","113131",76409.1,4878.58,73.0
+2016,"Budget analysts","132031",76221.8,2837.39,87.0
+2014,"Producers & directors","272012",76208.9,4646.15,74.0
+2014,"Chemists & materials scientists","192030",75858.1,3274.28,75.0
+2016,"Emergency management directors","119161",75853.5,13239.7,88.0
+2014,"Detectives & criminal investigators","333021",75835.8,2241.37,76.0
+2015,"Training & development managers","113131",75818.2,7939.19,81.0
+2014,"Budget analysts","132031",75586.8,3337.1,77.0
+2016,"Credit counselors & loan officers","132070",75505.7,2660.2,89.0
+2015,"Geological & petroleum technicians, & nuclear technicians","1940XX",75412.3,7357.97,82.0
+2014,"Compliance officers","131041",75223.6,2394.26,78.0
+2016,"Urban & regional planners","193051",74920.8,3925.24,90.0
+2014,"Sales representatives, wholesale & manufacturing","414010",74886.1,1071.36,79.0
+2014,"Radiation therapists","291124",74172.8,4245.86,80.0
+2014,"Database administrators","151141",74112.2,2243.44,81.0
+2016,"Network & computer systems administrators","151142",73987.8,1447.43,91.0
+2014,"Sales representatives, services, all other","413099",73851.2,1790.75,82.0
+2015,"Compliance officers","131041",73674.8,2344.53,83.0
+2014,"Advertising & promotions managers","112011",73508.0,6122.86,83.0
+2016,"Insurance underwriters","132053",73502.4,3276.92,92.0
+2015,"Ship & boat captains & operators","535020",73473.8,5158.24,84.0
+2015,"Electrical powerline installers & repairers","499051",73257.7,1889.84,85.0
+2014,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining","4750YY",73235.7,5571.52,84.0
+2015,"Public relations specialists","273031",73138.8,4243.54,86.0
+2014,"Urban & regional planners","193051",73135.6,5573.29,85.0
+2016,"Accountants & auditors","132011",73110.7,925.953,93.0
+2015,"Business operations specialists, all other","131199",72812.1,2669.08,87.0
+2015,"Agents & business managers of artists, performers, & athletes","131011",72415.8,17614.6,88.0
+2014,"Audiologists","291181",72113.6,10584.8,86.0
+2016,"Other Computer Occupations","151199",72052.0,1243.57,94.0
+2016,"Technical writers","273042",71983.1,3867.88,95.0
+2014,"Credit counselors & loan officers","132070",71907.4,2505.31,87.0
+2015,"Credit counselors & loan officers","132070",71881.0,3045.78,89.0
+2016,"Real estate brokers & sales agents","419020",71669.1,2358.99,96.0
+2014,"Administrative services managers","113011",71545.3,2570.13,88.0
+2016,"Education administrators","119030",71351.6,1153.88,97.0
+2015,"Other Computer Occupations","151199",71308.9,1400.26,90.0
+2015,"Radiation therapists","291124",70684.9,6525.47,91.0
+2016,"Audiologists","291181",70577.1,4675.16,98.0
+2015,"Network & computer systems administrators","151142",70475.7,1584.77,92.0
+2015,"Advertising sales agents","413011",70317.4,3443.87,93.0
+2015,"Accountants & auditors","132011",70258.3,767.472,94.0
+2016,"Electrical powerline installers & repairers","499051",70248.6,2514.82,99.0
+2016,"Insurance sales agents","413021",70239.0,2645.23,100.0
+2016,"Railroad conductors & yardmasters","534031",70091.9,4514.1,101.0
+2014,"Geological & petroleum technicians, & nuclear technicians","1940XX",70090.8,4543.1,89.0
+2015,"Urban & regional planners","193051",70035.8,5132.21,95.0
+2014,"Other Computer Occupations","151199",70022.0,1147.48,90.0
+2016,"Business operations specialists, all other","131199",69875.5,2075.21,102.0
+2016,"Psychologists","193030",69772.2,2659.11,103.0
+2014,"Agricultural & food scientists","191010",69584.4,12140.9,91.0
+2015,"Other financial clerks","433099",69472.7,4060.3,96.0
+2016,"Administrative services managers","113011",69432.9,2033.96,104.0
+2015,"Education administrators","119030",69374.8,1106.43,97.0
+2014,"Education administrators","119030",69362.8,1134.1,92.0
+2016,"Physical therapists","291123",69325.8,1504.43,105.0
+2014,"Electrical powerline installers & repairers","499051",69264.2,2529.86,93.0
+2014,"Accountants & auditors","132011",69145.3,789.254,94.0
+2015,"Real estate brokers & sales agents","419020",69061.2,2207.2,98.0
+2014,"Network & computer systems administrators","151142",69042.9,1478.85,95.0
+2014,"Insurance underwriters","132053",69009.6,3109.04,96.0
+2015,"Psychologists","193030",68872.0,2490.01,99.0
+2014,"Ship & boat captains & operators","535020",68732.2,5227.06,97.0
+2016,"Firefighters","332011",68723.2,1251.36,106.0
+2015,"Insurance underwriters","132053",68565.6,2752.86,100.0
+2016,"Cost estimators","131051",68444.5,2683.38,107.0
+2015,"Administrative services managers","113011",68414.2,2822.28,101.0
+2016,"Agricultural & food scientists","191010",68071.2,6045.94,108.0
+2016,"Military officer special & tactical operations leaders","551010",67996.8,4298.6,109.0
+2014,"Technical writers","273042",67974.1,3474.81,98.0
+2016,"Property, real estate, & community association managers","119141",67747.5,1913.29,110.0
+2015,"Technical writers","273042",67200.7,4174.12,102.0
+2016,"Agents & business managers of artists, performers, & athletes","131011",67158.9,7999.58,111.0
+2015,"Credit analysts","132041",67118.9,6833.26,103.0
+2015,"Physical therapists","291123",67106.9,1938.37,104.0
+2016,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining","4750YY",67073.5,6573.67,112.0
+2015,"Railroad conductors & yardmasters","534031",66899.2,3087.93,105.0
+2016,"Miscellaneous plant & system operators","518090",66883.7,3652.84,113.0
+2016,"Millwrights","499044",66669.7,2145.99,114.0
+2014,"Insurance sales agents","413021",66643.4,2155.55,99.0
+2015,"Audiologists","291181",66504.5,5220.39,106.0
+2014,"Physical therapists","291123",66462.8,1750.54,100.0
+2016,"Credit analysts","132041",66399.2,5745.94,115.0
+2015,"Military officer special & tactical operations leaders","551010",66346.8,3419.45,107.0
+2014,"Business operations specialists, all other","131199",66179.4,2527.78,101.0
+2014,"Real estate brokers & sales agents","419020",66130.5,1967.86,102.0
+2014,"Credit analysts","132041",66102.1,6810.24,103.0
+2015,"Firstline supervisors of construction trades & extraction workers","471011",66073.4,1157.85,108.0
+2016,"Police officers","333050",66061.2,911.944,116.0
+2016,"Mining machine operators","475040",66059.1,3643.53,117.0
+2014,"Railroad conductors & yardmasters","534031",65972.6,2580.2,104.0
+2014,"Buyers & purchasing agents, farm products","131021",65965.7,12660.3,105.0
+2015,"Firefighters","332011",65927.8,1235.66,109.0
+2014,"Military officer special & tactical operations leaders","551010",65836.5,4253.36,106.0
+2016,"Firstline supervisors of construction trades & extraction workers","471011",65729.3,1077.3,118.0
+2014,"Advertising sales agents","413011",65682.4,3455.12,107.0
+2014,"Other financial clerks","433099",65645.2,4202.0,108.0
+2014,"Firstline supervisors of construction trades & extraction workers","471011",65612.0,1253.59,109.0
+2016,"Human resources workers","131070",65481.1,1258.4,119.0
+2014,"Miscellaneous plant & system operators","518090",65387.6,3100.04,110.0
+2014,"Psychologists","193030",65345.6,2008.98,111.0
+2015,"Mining machine operators","475040",65180.8,4290.08,110.0
+2015,"Insurance sales agents","413021",65147.7,2360.3,111.0
+2015,"Emergency management directors","119161",65134.7,6103.65,112.0
+2016,"Appraisers & assessors of real estate","132021",64684.9,3202.94,120.0
+2015,"Property, real estate, & community association managers","119141",64552.3,1891.09,113.0
+2015,"Cost estimators","131051",64470.2,2154.84,114.0
+2014,"Biological scientists","191020",64113.3,4010.13,112.0
+2016,"Subway, streetcar, & other rail transportation workers","5340XX",64111.8,8237.36,121.0
+2015,"Police officers","333050",63850.5,802.871,115.0
+2014,"Cost estimators","131051",63795.2,2201.29,113.0
+2014,"Agents & business managers of artists, performers, & athletes","131011",63775.2,8699.42,114.0
+2014,"Firefighters","332011",63761.6,1290.78,115.0
+2016,"Firstline supervisors of mechanics, installers, & repairers","491011",63696.2,1428.29,122.0
+2015,"Biological scientists","191020",63638.3,2949.56,116.0
+2015,"Miscellaneous plant & system operators","518090",63569.3,3519.37,117.0
+2015,"Human resources workers","131070",63473.5,1170.22,118.0
+2015,"Crane & tower operators","537021",63031.7,3813.57,119.0
+2014,"Human resources workers","131070",62978.6,1130.64,116.0
+2016,"Social & community service managers","119151",62923.9,1494.7,123.0
+2014,"Mining machine operators","475040",62750.3,2813.76,117.0
+2016,"Surveyors, cartographers, & photogrammetrists","171020",62646.2,4334.59,124.0
+2016,"Registered nurses","291141",62538.6,473.633,125.0
+2016,"Firstline enlisted military supervisors","552010",62505.3,1729.59,126.0
+2016,"Compensation, benefits, & job analysis specialists","131141",62412.5,4610.84,127.0
+2015,"Writers & authors","273043",62385.9,3471.31,120.0
+2014,"Property, real estate, & community association managers","119141",62354.0,1890.1,118.0
+2014,"Firstline supervisors of mechanics, installers, & repairers","491011",62229.6,1519.77,119.0
+2016,"Biological scientists","191020",62161.0,2355.92,128.0
+2014,"Police officers","333050",62142.3,775.604,120.0
+2016,"Private detectives & investigators","339021",62086.3,2397.47,129.0
+2014,"News analysts, reporters & correspondents","273020",61779.8,5192.72,121.0
+2016,"Transportation, storage, & distribution managers","113071",61663.5,1904.09,130.0
+2016,"Fire inspectors","332020",61652.2,4729.95,131.0
+2016,"Other healthcare practitioners & technical Occupations","299000",61591.8,3152.49,132.0
+2015,"Firstline supervisors of mechanics, installers, & repairers","491011",61365.8,1177.1,121.0
+2014,"Emergency management directors","119161",61116.4,6622.69,122.0
+2016,"Stationary engineers & boiler operators","518021",60914.1,2832.53,133.0
+2015,"Registered nurses","291141",60864.6,460.767,122.0
+2015,"Earth drillers, except oil & gas","475021",60721.4,7210.82,123.0
+2016,"Fundraisers","131131",60687.1,3146.43,134.0
+2015,"Miscellaneous extraction workers, including roof bolters & helpers","4750XX",60643.4,3406.31,124.0
+2016,"Procurement clerks","433061",60531.3,4406.3,135.0
+2016,"Computer support specialists","151150",60451.2,1079.33,136.0
+2016,"Crane & tower operators","537021",60411.5,2693.06,137.0
+2016,"Occupational therapists","291122",60284.8,1555.31,138.0
+2014,"Web developers","151134",60224.0,2391.32,123.0
+2014,"Procurement clerks","433061",60171.9,4578.5,124.0
+2016,"News analysts, reporters & correspondents","273020",60167.7,4396.58,139.0
+2014,"Social & community service managers","119151",60035.6,1462.07,125.0
+2014,"Occupational therapists","291122",60021.9,1999.91,126.0
+2016,"Buyers & purchasing agents, farm products","131021",59949.9,7208.39,140.0
+2015,"Computer support specialists","151150",59949.1,1177.11,125.0
+2014,"Registered nurses","291141",59947.7,447.872,127.0
+2015,"Stationary engineers & boiler operators","518021",59850.7,2523.57,126.0
+2016,"Miscellaneous social scientists, including survey researchers & sociologists","1930XX",59849.6,5245.89,141.0
+2014,"Writers & authors","273043",59832.2,3061.43,128.0
+2015,"Social & community service managers","119151",59824.3,1622.89,127.0
+2015,"Firstline enlisted military supervisors","552010",59769.7,2078.2,128.0
+2015,"Occupational therapists","291122",59731.0,1937.48,129.0
+2014,"Millwrights","499044",59715.1,3245.09,129.0
+2015,"Miscellaneous social scientists, including survey researchers & sociologists","1930XX",59706.8,4607.44,130.0
+2014,"Subway, streetcar, & other rail transportation workers","5340XX",59681.8,9186.06,130.0
+2015,"Conservation scientists & foresters","191030",59625.8,5424.24,131.0
+2016,"Firstline supervisors of production & operating workers","511011",59543.5,824.456,142.0
+2014,"Stationary engineers & boiler operators","518021",59456.5,2992.39,131.0
+2016,"Tool & die makers","514111",59418.7,3092.95,143.0
+2016,"Web developers","151134",59416.3,2482.67,144.0
+2015,"Millwrights","499044",59267.4,2038.66,132.0
+2016,"Training & development specialists","131151",59234.7,1863.01,145.0
+2014,"Purchasing agents, except wholesale, retail, & farm products","131023",59003.0,1637.2,132.0
+2015,"Firstline supervisors of production & operating workers","511011",58936.9,931.857,133.0
+2016,"Tax examiners & collectors, & revenue agents","132081",58869.8,3737.76,146.0
+2015,"Transportation, storage, & distribution managers","113071",58846.9,1993.51,134.0
+2014,"Fundraisers","131131",58817.7,3909.48,133.0
+2016,"Logisticians","131081",58766.1,2162.91,147.0
+2015,"Control & valve installers & repairers","499010",58741.2,4307.15,135.0
+2015,"Training & development specialists","131151",58739.4,2034.33,136.0
+2016,"Purchasing agents, except wholesale, retail, & farm products","131023",58700.4,1471.7,148.0
+2014,"Firstline enlisted military supervisors","552010",58677.4,2204.92,134.0
+2015,"Appraisers & assessors of real estate","132021",58648.3,2991.17,137.0
+2016,"Firstline supervisors of protective service workers, all other","331099",58571.0,3079.65,149.0
+2016,"Credit authorizers, checkers, & clerks","434041",58484.6,6580.47,150.0
+2015,"Judicial law clerks","231012",58423.5,6132.37,138.0
+2014,"Surveyors, cartographers, & photogrammetrists","171020",58408.7,3320.51,135.0
+2016,"Transportation inspectors","536051",58406.2,3708.19,151.0
+2016,"Postsecondary teachers","251000",58395.5,739.317,152.0
+2014,"Transportation, storage, & distribution managers","113071",58310.9,1627.75,136.0
+2014,"Respiratory therapists","291126",58294.3,3447.2,137.0
+2015,"Procurement clerks","433061",58279.9,4290.4,139.0
+2015,"Purchasing agents, except wholesale, retail, & farm products","131023",58244.8,1415.31,140.0
+2015,"Agricultural & food scientists","191010",58196.6,4555.61,141.0
+2015,"Web developers","151134",58072.6,2186.48,142.0
+2016,"Speechlanguage pathologists","291127",58055.9,1693.37,153.0
+2015,"Other healthcare practitioners & technical Occupations","299000",57982.6,2280.41,143.0
+2015,"Transportation inspectors","536051",57956.3,3623.65,144.0
+2016,"Claims adjusters, appraisers, examiners, & investigators","131030",57820.6,1409.29,154.0
+2015,"Fundraisers","131131",57720.6,3316.55,145.0
+2015,"Boilermakers","472011",57693.5,4828.24,146.0
+2016,"Other Sales Workers","419099",57684.0,2454.16,155.0
+2015,"Private detectives & investigators","339021",57670.4,3079.1,147.0
+2014,"Tax examiners & collectors, & revenue agents","132081",57659.6,3407.47,138.0
+2014,"Private detectives & investigators","339021",57625.3,2875.88,139.0
+2014,"Firstline supervisors of production & operating workers","511011",57588.7,839.032,140.0
+2016,"Firstline supervisors of correctional officers","331011",57560.9,2597.23,156.0
+2014,"Speechlanguage pathologists","291127",57540.7,1885.06,141.0
+2016,"Conservation scientists & foresters","191030",57529.3,3719.5,157.0
+2016,"Gaming managers","119071",57507.4,5105.9,158.0
+2014,"Firstline supervisors of protective service workers, all other","331099",57490.3,3007.42,142.0
+2015,"Firstline supervisors of correctional officers","331011",57451.4,1778.74,148.0
+2016,"Miscellaneous extraction workers, including roof bolters & helpers","4750XX",57355.5,3669.7,159.0
+2015,"Postsecondary teachers","251000",57318.3,849.153,149.0
+2016,"Miscellaneous legal support workers","232090",57259.1,2358.97,160.0
+2016,"Pumping station operators","537070",57172.4,3043.41,161.0
+2014,"Miscellaneous extraction workers, including roof bolters & helpers","4750XX",57069.0,2976.85,143.0
+2016,"Construction & building inspectors","474011",57037.5,2266.39,162.0
+2015,"News analysts, reporters & correspondents","273020",56966.8,4976.56,150.0
+2014,"Crane & tower operators","537021",56829.7,2819.57,144.0
+2015,"Editors","273041",56813.2,2580.4,151.0
+2014,"Other healthcare practitioners & technical Occupations","299000",56726.4,3226.61,145.0
+2015,"Firstline supervisors of protective service workers, all other","331099",56707.0,2894.59,152.0
+2014,"Postsecondary teachers","251000",56701.0,1071.12,146.0
+2014,"Appraisers & assessors of real estate","132021",56632.9,2884.54,147.0
+2016,"Writers & authors","273043",56622.9,2684.62,163.0
+2015,"Compensation, benefits, & job analysis specialists","131141",56601.2,3631.82,153.0
+2014,"Transportation inspectors","536051",56598.2,2466.85,148.0
+2016,"Aircraft mechanics & service technicians","493011",56449.2,1593.12,164.0
+2014,"Logisticians","131081",56284.9,2693.4,149.0
+2016,"Diagnostic related technologists & technicians","292030",56270.6,1194.52,165.0
+2016,"Firstline supervisors of office & administrative support workers","431011",56219.7,804.329,166.0
+2015,"Surveyors, cartographers, & photogrammetrists","171020",56080.2,3874.64,154.0
+2015,"Speechlanguage pathologists","291127",56043.4,1808.43,155.0
+2015,"Miscellaneous legal support workers","232090",56038.0,2285.16,156.0
+2015,"Morticians, undertakers, & funeral directors","394031",55953.9,6868.42,157.0
+2014,"Miscellaneous legal support workers","232090",55937.4,2942.56,150.0
+2015,"Claims adjusters, appraisers, examiners, & investigators","131030",55831.2,1507.38,158.0
+2014,"Training & development specialists","131151",55822.3,1869.54,151.0
+2015,"Other Sales Workers","419099",55812.6,2601.16,159.0
+2014,"Pumping station operators","537070",55782.2,3728.92,152.0
+2014,"Earth drillers, except oil & gas","475021",55781.1,4506.23,153.0
+2014,"Firstline supervisors of correctional officers","331011",55755.7,2054.37,154.0
+2016,"Lodging managers","119081",55525.1,3240.08,167.0
+2016,"Boilermakers","472011",55509.8,5547.74,168.0
+2016,"Editors","273041",55464.6,2488.69,169.0
+2016,"Electrical & electronics repairers, transportation equipment, & industrial & utility","49209X",55403.3,5990.19,170.0
+2015,"Respiratory therapists","291126",55387.8,2226.16,160.0
+2014,"Other Sales Workers","419099",55322.2,2352.59,155.0
+2015,"Fire inspectors","332020",55247.8,3566.81,161.0
+2015,"Chemical technicians","194031",55232.6,2163.66,162.0
+2015,"Logisticians","131081",55221.9,1447.48,163.0
+2014,"Miscellaneous social scientists, including survey researchers & sociologists","1930XX",55202.2,4093.16,156.0
+2014,"Fire inspectors","332020",55183.4,4379.73,157.0
+2015,"Electronic equipment installers & repairers, motor vehicles","492096",55161.9,11706.7,164.0
+2014,"Editors","273041",55015.0,2104.64,158.0
+2016,"Engineering technicians, except drafters","173020",54987.1,959.454,171.0
+2016,"Chemical processing machine setters, operators, & tenders","519010",54984.5,2953.42,172.0
+2015,"Biological technicians","194021",54970.4,6255.51,165.0
+2016,"Respiratory therapists","291126",54960.7,1658.76,173.0
+2015,"Buyers & purchasing agents, farm products","131021",54763.2,7987.03,166.0
+2015,"Railtrack laying & maintenance equipment operators","474061",54726.2,3485.87,167.0
+2014,"Radio & telecommunications equipment installers & repairers","492020",54725.2,1681.32,159.0
+2015,"Tax examiners & collectors, & revenue agents","132081",54657.6,2523.1,168.0
+2015,"Artists & related workers","271010",54611.3,3383.9,169.0
+2015,"Engineering technicians, except drafters","173020",54527.2,1159.83,170.0
+2016,"Announcers","273010",54482.5,5076.54,174.0
+2015,"Diagnostic related technologists & technicians","292030",54474.8,1248.92,171.0
+2015,"Tool & die makers","514111",54373.7,1739.29,172.0
+2014,"Artists & related workers","271010",54310.3,3169.48,160.0
+2016,"Explosives workers, ordnance handling experts, & blasters","475031",54276.3,6189.65,175.0
+2016,"Morticians, undertakers, & funeral directors","394031",54215.1,3875.47,176.0
+2016,"Chemical technicians","194031",54190.6,2872.92,177.0
+2014,"Gaming managers","119071",54181.7,6983.84,161.0
+2015,"Pumping station operators","537070",54155.7,4028.23,173.0
+2014,"Tool & die makers","514111",54089.8,1946.27,162.0
+2016,"Tax preparers","132082",54089.2,5362.89,178.0
+2014,"Computer support specialists","151150",53966.2,887.093,163.0
+2016,"Farmers, ranchers, & other agricultural managers","119013",53858.1,2339.23,179.0
+2014,"Boilermakers","472011",53835.9,4762.75,164.0
+2016,"Designers","271020",53830.9,1139.29,180.0
+2014,"Morticians, undertakers, & funeral directors","394031",53813.1,4259.77,165.0
+2014,"Conservation scientists & foresters","191030",53739.5,3487.47,166.0
+2015,"Lodging managers","119081",53664.2,2595.81,174.0
+2015,"Subway, streetcar, & other rail transportation workers","5340XX",53637.9,4102.0,175.0
+2015,"Aircraft mechanics & service technicians","493011",53598.3,1373.89,176.0
+2014,"Claims adjusters, appraisers, examiners, & investigators","131030",53547.0,1030.48,167.0
+2014,"Firstline supervisors of office & administrative support workers","431011",53407.8,783.479,168.0
+2014,"Control & valve installers & repairers","499010",53407.8,5279.52,169.0
+2014,"Engineering technicians, except drafters","173020",53401.0,1127.92,170.0
+2015,"Gaming managers","119071",53370.8,5383.88,177.0
+2015,"Health diagnosing & treating practitioners, all other","291199",53357.1,12094.9,178.0
+2015,"Designers","271020",53318.5,1168.52,179.0
+2014,"Lodging managers","119081",53295.5,4549.78,171.0
+2015,"Firstline supervisors of office & administrative support workers","431011",53295.1,675.298,180.0
+2016,"Drafters","173010",53044.0,1667.47,181.0
+2016,"Supervisors of transportation & material moving workers","531000",53003.6,1594.62,182.0
+2016,"Television, video, & motion picture camera operators & editors","274030",52979.2,4297.1,183.0
+2015,"Construction & building inspectors","474011",52952.3,2471.37,181.0
+2016,"Sailors & marine oilers, & ship engineers","5350XX",52930.1,5658.02,184.0
+2015,"Farmers, ranchers, & other agricultural managers","119013",52869.4,2091.72,182.0
+2014,"Aircraft mechanics & service technicians","493011",52855.0,1570.79,172.0
+2014,"Chemical processing machine setters, operators, & tenders","519010",52828.6,2214.55,173.0
+2016,"Railtrack laying & maintenance equipment operators","474061",52813.2,8775.83,185.0
+2015,"Riggers","499096",52807.6,5582.22,183.0
+2014,"Compensation, benefits, & job analysis specialists","131141",52804.3,3241.99,174.0
+2014,"Diagnostic related technologists & technicians","292030",52694.5,1316.28,175.0
+2014,"Construction & building inspectors","474011",52678.8,2749.91,176.0
+2016,"Control & valve installers & repairers","499010",52581.1,4516.13,186.0
+2015,"Electrical & electronics repairers, transportation equipment, & industrial & utility","49209X",52569.7,5201.1,184.0
+2016,"Electricians","472111",52381.4,760.11,187.0
+2015,"Heavy vehicle & mobile equipment service technicians & mechanics","493040",52122.8,1657.35,185.0
+2015,"Chemical processing machine setters, operators, & tenders","519010",51997.8,2828.14,186.0
+2016,"Agricultural inspectors","452011",51907.0,3848.49,188.0
+2016,"Precision instrument & equipment repairers","499060",51881.1,2779.98,189.0
+2015,"Electricians","472111",51865.4,821.732,187.0
+2014,"Electrical & electronics repairers, transportation equipment, & industrial & utility","49209X",51705.7,4422.61,177.0
+2016,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other","2740XX",51647.6,2621.31,190.0
+2016,"Production, planning, & expediting clerks","435061",51614.5,1631.34,191.0
+2016,"Industrial & refractory machinery mechanics","49904X",51591.7,1054.92,192.0
+2016,"Radio & telecommunications equipment installers & repairers","492020",51582.3,1471.21,193.0
+2016,"Structural iron & steel workers","472221",51301.5,3248.65,194.0
+2014,"Heavy vehicle & mobile equipment service technicians & mechanics","493040",51254.3,1361.09,178.0
+2016,"Heavy vehicle & mobile equipment service technicians & mechanics","493040",51234.8,1251.6,195.0
+2016,"Secondary school teachers","252030",51219.8,559.886,196.0
+2014,"Chemical technicians","194031",51211.3,2461.74,179.0
+2015,"Communications equipment operators, all other","432099",51205.3,9493.32,188.0
+2014,"Supervisors of transportation & material moving workers","531000",51139.0,1649.13,180.0
+2014,"Avionics technicians","492091",51010.5,3419.3,181.0
+2015,"Supervisors of transportation & material moving workers","531000",50916.0,1470.82,189.0
+2014,"Designers","271020",50913.5,1210.1,182.0
+2016,"Probation officers & correctional treatment specialists","211092",50906.4,1323.99,197.0
+2016,"Earth drillers, except oil & gas","475021",50871.1,3901.83,198.0
+2015,"Radio & telecommunications equipment installers & repairers","492020",50866.3,1760.88,190.0
+2014,"Farmers, ranchers, & other agricultural managers","119013",50668.9,1914.99,183.0
+2015,"Water & wastewater treatment plant & system operators","518031",50637.5,1706.66,191.0
+2015,"Maintenance workers, machinery","499043",50628.8,4332.7,192.0
+2016,"Health diagnosing & treating practitioners, all other","291199",50627.2,9242.44,199.0
+2016,"Telecommunications line installers & repairers","499052",50593.1,1636.66,200.0
+2016,"Brokerage clerks","434011",50592.9,6794.9,201.0
+2015,"Drafters","173010",50545.5,1576.52,193.0
+2014,"Judicial law clerks","231012",50538.5,8959.7,184.0
+2014,"Surveying & mapping technicians","173031",50340.6,3262.8,185.0
+2014,"Television, video, & motion picture camera operators & editors","274030",50294.2,4699.63,186.0
+2015,"Telecommunications line installers & repairers","499052",50293.1,1911.65,194.0
+2015,"Television, video, & motion picture camera operators & editors","274030",50266.2,5330.41,195.0
+2015,"Secondary school teachers","252030",50239.6,545.204,196.0
+2015,"New accounts clerks","434141",50230.7,8756.94,197.0
+2014,"Health diagnosing & treating practitioners, all other","291199",50202.3,9411.43,187.0
+2016,"Artists & related workers","271010",50188.2,2192.06,202.0
+2015,"Precision instrument & equipment repairers","499060",50049.6,3020.79,198.0
+2016,"Dental hygienists","292021",50045.7,1878.92,203.0
+2015,"Industrial & refractory machinery mechanics","49904X",49917.2,995.819,199.0
+2016,"Statistical assistants","439111",49866.2,6136.33,204.0
+2014,"Probation officers & correctional treatment specialists","211092",49785.2,1760.62,188.0
+2015,"Brokerage clerks","434011",49778.6,8966.18,200.0
+2014,"Drafters","173010",49733.7,1685.7,189.0
+2015,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other","2740XX",49727.2,2494.31,201.0
+2014,"Secondary school teachers","252030",49690.0,580.635,190.0
+2014,"Precision instrument & equipment repairers","499060",49686.5,2713.63,191.0
+2014,"Electricians","472111",49558.2,770.941,192.0
+2015,"Paralegals & legal assistants","232011",49536.2,1497.05,202.0
+2015,"Surveying & mapping technicians","173031",49492.0,4293.85,203.0
+2015,"Tax preparers","132082",49488.9,3909.31,204.0
+2016,"Postal service mail carriers","435052",49468.3,801.565,205.0
+2014,"Postal service clerks","435051",49431.2,828.96,193.0
+2015,"Probation officers & correctional treatment specialists","211092",49392.6,1663.64,205.0
+2014,"Industrial & refractory machinery mechanics","49904X",49357.7,866.637,194.0
+2016,"Pipelayers, plumbers, pipefitters, & steamfitters","472150",49280.4,1028.84,206.0
+2015,"Statistical assistants","439111",49249.4,5338.82,206.0
+2014,"Railtrack laying & maintenance equipment operators","474061",49232.5,4808.64,195.0
+2015,"Postal service clerks","435051",49221.3,1499.29,207.0
+2014,"Dental hygienists","292021",49157.0,1781.59,196.0
+2016,"Construction equipment operators except paving, surfacing, & tamping equipment operators","47207X",49080.7,1156.09,207.0
+2014,"Paralegals & legal assistants","232011",48994.6,1399.96,197.0
+2015,"Dental hygienists","292021",48971.2,1908.56,208.0
+2016,"Water & wastewater treatment plant & system operators","518031",48764.8,1637.13,208.0
+2016,"Surveying & mapping technicians","173031",48741.6,2224.36,209.0
+2014,"Telecommunications line installers & repairers","499052",48736.2,1663.55,198.0
+2016,"Firstline supervisors of retail sales workers","411011",48695.0,598.833,210.0
+2016,"Electric motor, power tool, & related repairers","492092",48666.8,3381.43,211.0
+2015,"Announcers","273010",48626.2,6032.05,209.0
+2014,"Tire builders","519197",48557.4,4509.93,199.0
+2014,"Postal service mail carriers","435052",48549.5,901.029,200.0
+2015,"Construction equipment operators except paving, surfacing, & tamping equipment operators","47207X",48529.9,1201.61,210.0
+2015,"Postal service mail carriers","435052",48500.6,688.81,211.0
+2016,"Maintenance workers, machinery","499043",48461.7,3790.57,212.0
+2014,"Construction equipment operators except paving, surfacing, & tamping equipment operators","47207X",48369.5,1240.71,201.0
+2014,"Tax preparers","132082",48292.4,4391.01,202.0
+2014,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other","2740XX",48229.4,2701.27,203.0
+2016,"Postal service clerks","435051",48124.6,1749.78,213.0
+2016,"Machinists","514041",48083.3,1457.83,214.0
+2016,"Forest & conservation workers","454011",47955.7,14594.7,215.0
+2015,"Other education, training, & library workers","2590XX",47940.7,2230.91,212.0
+2016,"Paralegals & legal assistants","232011",47928.8,1103.35,216.0
+2016,"Bailiffs, correctional officers, & jailers","333010",47910.9,851.691,217.0
+2014,"Water & wastewater treatment plant & system operators","518031",47887.4,1289.07,204.0
+2015,"Agricultural & food science technicians","194011",47650.3,3960.02,213.0
+2016,"Elementary & middle school teachers","252020",47637.9,289.606,218.0
+2016,"Biological technicians","194021",47548.8,5201.48,219.0
+2015,"Sailors & marine oilers, & ship engineers","5350XX",47542.0,3272.06,214.0
+2014,"Agricultural inspectors","452011",47516.1,5599.84,205.0
+2014,"Miscellaneous health technologists & technicians","292090",47416.1,3140.78,206.0
+2016,"Other therapists, including exercise physiologists","29112X",47356.8,2101.74,220.0
+2016,"Clinical laboratory technologists & technicians","292010",47353.5,1011.75,221.0
+2014,"Locksmiths & safe repairers","499094",47288.9,8226.05,207.0
+2016,"Postal service mail sorters, processors, & processing machine operators","435053",47264.8,2069.1,222.0
+2014,"Announcers","273010",47250.3,8236.01,208.0
+2016,"Military, rank not specified","559830",47167.8,2336.43,223.0
+2014,"Production, planning, & expediting clerks","435061",47162.5,1232.34,209.0
+2015,"Structural iron & steel workers","472221",47126.4,2369.5,215.0
+2015,"Firstline supervisors of retail sales workers","411011",47118.2,520.187,216.0
+2015,"Pipelayers, plumbers, pipefitters, & steamfitters","472150",47051.9,929.655,217.0
+2014,"Electric motor, power tool, & related repairers","492092",46959.6,3259.58,210.0
+2016,"Riggers","499096",46906.9,4630.54,224.0
+2015,"Bailiffs, correctional officers, & jailers","333010",46678.9,871.357,218.0
+2015,"Production, planning, & expediting clerks","435061",46643.2,1175.5,219.0
+2016,"Other education, training, & library workers","2590XX",46619.7,1975.57,225.0
+2014,"Bailiffs, correctional officers, & jailers","333010",46567.7,869.443,211.0
+2016,"Miscellaneous health technologists & technicians","292090",46564.6,2295.79,226.0
+2014,"Electronic equipment installers & repairers, motor vehicles","492096",46509.5,6581.2,212.0
+2015,"Elementary & middle school teachers","252020",46452.9,278.204,220.0
+2014,"Elementary & middle school teachers","252020",46374.8,263.406,213.0
+2015,"Dietitians & nutritionists","291031",46211.2,3709.11,221.0
+2016,"Eligibility interviewers, government programs","434061",46197.7,2494.64,227.0
+2016,"Engine & other machine assemblers","512031",46195.6,3897.85,228.0
+2014,"Firstline supervisors of retail sales workers","411011",46169.8,566.504,214.0
+2015,"Archivists, curators, & museum technicians","254010",46165.5,3701.65,222.0
+2016,"Special education teachers","252050",46158.7,975.646,229.0
+2014,"Postal service mail sorters, processors, & processing machine operators","435053",46115.8,2083.1,215.0
+2016,"Aircraft structure, surfaces, rigging, & systems assemblers","512011",46029.9,7288.11,230.0
+2014,"Other education, training, & library workers","2590XX",45982.0,2267.45,216.0
+2014,"Maintenance workers, machinery","499043",45936.1,2752.67,217.0
+2016,"Avionics technicians","492091",45897.6,3590.64,231.0
+2015,"Electric motor, power tool, & related repairers","492092",45897.1,3380.23,223.0
+2014,"Brokerage clerks","434011",45817.2,4985.02,218.0
+2014,"Pipelayers, plumbers, pipefitters, & steamfitters","472150",45805.2,1226.43,219.0
+2014,"Machinists","514041",45711.7,1040.33,220.0
+2015,"Clinical laboratory technologists & technicians","292010",45657.9,1420.74,224.0
+2014,"Military, rank not specified","559830",45567.9,1292.05,221.0
+2015,"Avionics technicians","492091",45536.8,3171.1,225.0
+2014,"Computer control programmers & operators","514010",45523.4,1929.63,222.0
+2015,"Military, rank not specified","559830",45484.0,1304.47,226.0
+2014,"Biological technicians","194021",45442.4,2958.04,223.0
+2014,"Clinical laboratory technologists & technicians","292010",45429.8,1298.11,224.0
+2015,"Agricultural inspectors","452011",45403.6,4562.89,227.0
+2016,"Heating, air conditioning, & refrigeration mechanics & installers","499021",45395.8,1007.0,232.0
+2016,"Judicial law clerks","231012",45345.7,5442.55,233.0
+2015,"Miscellaneous health technologists & technicians","292090",45328.2,3329.16,228.0
+2014,"Archivists, curators, & museum technicians","254010",45313.6,2783.03,225.0
+2016,"Fishing & hunting workers","453000",45289.8,6262.6,234.0
+2015,"Machinists","514041",45281.3,791.474,229.0
+2015,"Actors","272011",45256.9,8501.34,230.0
+2016,"Tire builders","519197",45203.1,3973.23,235.0
+2014,"Structural iron & steel workers","472221",45152.8,2095.0,226.0
+2015,"Explosives workers, ordnance handling experts, & blasters","475031",45147.2,5137.42,231.0
+2015,"Rolling machine setters, operators, & tenders, metal & plastic","514023",45062.9,4709.84,232.0
+2014,"Sailors & marine oilers, & ship engineers","5350XX",45033.8,3651.35,227.0
+2015,"Postal service mail sorters, processors, & processing machine operators","435053",44918.7,1867.7,233.0
+2014,"Loan interviewers & clerks","434131",44882.2,2241.23,228.0
+2016,"Loan interviewers & clerks","434131",44852.2,1582.68,236.0
+2016,"Maintenance & repair workers, general","499071",44845.1,733.516,237.0
+2015,"Computer control programmers & operators","514010",44803.6,1509.16,234.0
+2016,"Social workers","211020",44794.1,468.759,238.0
+2016,"Structural metal fabricators & fitters","512041",44713.0,2941.05,239.0
+2014,"Dietitians & nutritionists","291031",44699.2,2801.11,229.0
+2016,"Firstline supervisors of farming, fishing, & forestry workers","451011",44645.9,3079.85,240.0
+2016,"Flight attendants","532031",44605.1,1737.71,241.0
+2015,"Special education teachers","252050",44596.4,836.043,235.0
+2016,"Actors","272011",44561.7,8418.76,242.0
+2015,"Tire builders","519197",44525.9,3201.55,236.0
+2016,"Archivists, curators, & museum technicians","254010",44457.4,2968.75,243.0
+2016,"Computer operators","439011",44418.6,2233.65,244.0
+2014,"Other therapists, including exercise physiologists","29112X",44389.4,1902.61,230.0
+2016,"Meeting, convention, & event planners","131121",44380.6,1992.62,245.0
+2016,"Dietitians & nutritionists","291031",44353.5,2533.21,246.0
+2016,"Bus & truck mechanics & diesel engine specialists","493031",44338.4,943.779,247.0
+2014,"Emergency medical technicians & paramedics","292041",44299.9,1985.22,231.0
+2014,"Credit authorizers, checkers, & clerks","434041",44261.7,3323.82,232.0
+2014,"Agricultural & food science technicians","194011",44199.4,4524.56,233.0
+2015,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians","5360XX",44189.9,6718.78,237.0
+2015,"Heating, air conditioning, & refrigeration mechanics & installers","499021",44178.2,772.664,238.0
+2016,"Transportation security screeners","339093",44135.9,3006.58,248.0
+2016,"Computer control programmers & operators","514010",44116.9,1424.16,249.0
+2016,"Security & fire alarm systems installers","492098",44068.8,1777.5,250.0
+2016,"Miscellaneous community & social service specialists, including health educators & community health workers","21109X",44048.4,2284.71,251.0
+2015,"Credit authorizers, checkers, & clerks","434041",44019.4,4721.02,239.0
+2016,"Clergy","212011",43974.4,831.697,252.0
+2015,"Flight attendants","532031",43969.5,1785.6,240.0
+2016,"Occupational therapy assistants & aides","312010",43944.8,3691.44,253.0
+2016,"Locksmiths & safe repairers","499094",43936.9,3269.08,254.0
+2014,"Security & fire alarm systems installers","492098",43865.8,2877.17,234.0
+2016,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers","371012",43854.6,1830.02,255.0
+2014,"Bus & truck mechanics & diesel engine specialists","493031",43847.9,861.994,235.0
+2014,"Special education teachers","252050",43773.9,1054.45,236.0
+2014,"Health practitioner support technologists & technicians","292050",43762.0,1779.68,237.0
+2015,"Transportation security screeners","339093",43688.0,3125.15,241.0
+2016,"Emergency medical technicians & paramedics","292041",43643.5,1540.58,256.0
+2015,"Bus & truck mechanics & diesel engine specialists","493031",43641.3,841.855,242.0
+2015,"Miscellaneous community & social service specialists, including health educators & community health workers","21109X",43552.7,2459.95,243.0
+2016,"Firstline supervisors of gaming workers","391010",43434.1,2666.26,257.0
+2014,"Eligibility interviewers, government programs","434061",43403.8,1510.8,238.0
+2016,"Computer, automated teller, & office machine repairers","492011",43368.7,1392.25,258.0
+2016,"Librarians","254021",43359.7,1361.84,259.0
+2014,"Explosives workers, ordnance handling experts, & blasters","475031",43357.6,5226.11,239.0
+2015,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers","371012",43297.1,2065.57,244.0
+2014,"Social workers","211020",43263.4,511.546,240.0
+2015,"Computer, automated teller, & office machine repairers","492011",43235.1,1623.98,245.0
+2014,"Rolling machine setters, operators, & tenders, metal & plastic","514023",43186.4,6108.38,241.0
+2015,"Social workers","211020",43180.3,542.813,246.0
+2016,"Food service managers","119051",43151.3,1010.92,260.0
+2015,"Metal furnace operators, tenders, pourers, & casters","514050",43130.5,2178.04,247.0
+2014,"Firstline supervisors of gaming workers","391010",43065.6,2419.44,242.0
+2014,"Actors","272011",43064.3,8629.37,243.0
+2014,"Firstline supervisors of farming, fishing, & forestry workers","451011",42976.5,2751.3,244.0
+2014,"Heating, air conditioning, & refrigeration mechanics & installers","499021",42928.2,1003.59,245.0
+2016,"Dredge, excavating, & loading machine operators","537030",42926.0,2842.21,261.0
+2015,"Librarians","254021",42922.6,1280.7,248.0
+2016,"Sheet metal workers","472211",42911.5,1518.75,262.0
+2015,"Emergency medical technicians & paramedics","292041",42782.9,2064.63,249.0
+2015,"Security & fire alarm systems installers","492098",42764.7,2316.61,250.0
+2014,"Maintenance & repair workers, general","499071",42741.4,768.199,246.0
+2014,"Food service managers","119051",42737.8,1091.43,247.0
+2015,"Other therapists, including exercise physiologists","29112X",42693.2,1385.8,251.0
+2014,"Clergy","212011",42686.9,885.745,248.0
+2014,"Aircraft structure, surfaces, rigging, & systems assemblers","512011",42672.6,4934.58,249.0
+2014,"Furnace, kiln, oven, drier, & kettle operators & tenders","519051",42658.2,4530.36,250.0
+2014,"Communications equipment operators, all other","432099",42627.4,7186.66,251.0
+2014,"Computer, automated teller, & office machine repairers","492011",42607.0,1239.59,252.0
+2016,"Welding, soldering, & brazing workers","514120",42583.4,764.086,263.0
+2016,"Miscellaneous law enforcement workers","3330XX",42574.2,4710.6,264.0
+2016,"Furnace, kiln, oven, drier, & kettle operators & tenders","519051",42510.2,4351.44,265.0
+2014,"Insulation workers","472130",42505.9,3476.53,253.0
+2016,"Metal furnace operators, tenders, pourers, & casters","514050",42489.7,3174.24,266.0
+2014,"Librarians","254021",42465.6,1147.95,254.0
+2015,"Maintenance & repair workers, general","499071",42441.4,701.919,252.0
+2015,"Sheet metal workers","472211",42402.5,1348.95,253.0
+2015,"Meeting, convention, & event planners","131121",42379.5,2342.17,254.0
+2014,"Hazardous materials removal workers","474041",42325.6,4786.51,255.0
+2015,"Loan interviewers & clerks","434131",42248.7,1511.02,255.0
+2014,"Miscellaneous law enforcement workers","3330XX",42229.1,4501.5,256.0
+2016,"Inspectors, testers, sorters, samplers, & weighers","519061",42216.5,744.6,267.0
+2015,"Meter readers, utilities","435041",42118.4,5388.73,256.0
+2014,"Transportation security screeners","339093",42097.6,2839.49,257.0
+2014,"Metal furnace operators, tenders, pourers, & casters","514050",42078.5,2861.69,258.0
+2016,"Automotive body & related repairers","493021",42077.1,1338.76,268.0
+2015,"Animal control workers","339011",42052.1,3599.94,257.0
+2016,"Glaziers","472121",42011.8,3285.41,269.0
+2014,"Meeting, convention, & event planners","131121",41998.9,1986.85,259.0
+2015,"Inspectors, testers, sorters, samplers, & weighers","519061",41979.4,748.843,258.0
+2015,"Counselors","211010",41972.8,864.272,259.0
+2015,"Food service managers","119051",41938.2,786.539,260.0
+2014,"Flight attendants","532031",41888.4,1572.85,260.0
+2015,"Home appliance repairers","499031",41879.6,4415.8,261.0
+2016,"Agricultural & food science technicians","194011",41850.6,2512.55,270.0
+2015,"Eligibility interviewers, government programs","434061",41779.8,1380.57,262.0
+2015,"Clergy","212011",41716.6,883.497,263.0
+2014,"Cargo & freight agents","435011",41710.9,5044.73,261.0
+2016,"Counselors","211010",41699.5,584.851,271.0
+2016,"Reservation & transportation ticket agents & travel clerks","434181",41678.1,2984.08,272.0
+2014,"Miscellaneous community & social service specialists, including health educators & community health workers","21109X",41653.6,2175.8,262.0
+2015,"Firstline supervisors of farming, fishing, & forestry workers","451011",41631.0,1899.87,264.0
+2014,"Dredge, excavating, & loading machine operators","537030",41624.4,2840.04,263.0
+2014,"Computer operators","439011",41585.6,2415.85,264.0
+2016,"Paper goods machine setters, operators, & tenders","519196",41584.3,4117.28,273.0
+2015,"Automotive body & related repairers","493021",41531.8,1572.76,265.0
+2016,"Wholesale & retail buyers, except farm products","131022",41516.6,1930.96,274.0
+2015,"Computer operators","439011",41365.8,1920.2,266.0
+2015,"Locksmiths & safe repairers","499094",41325.6,3740.3,267.0
+2014,"Entertainers & performers, sports & related workers, all other","272099",41317.2,6100.81,265.0
+2016,"Travel agents","413041",41261.9,3314.63,275.0
+2016,"Forging machine setters, operators, & tenders, metal & plastic","514022",41257.8,4617.78,276.0
+2014,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers","371012",41139.0,1604.53,266.0
+2015,"Welding, soldering, & brazing workers","514120",41094.7,579.92,268.0
+2016,"Driver/sales workers & truck drivers","533030",41062.8,433.326,277.0
+2016,"Home appliance repairers","499031",41043.1,3388.72,278.0
+2015,"Hazardous materials removal workers","474041",41025.0,3454.61,269.0
+2014,"Inspectors, testers, sorters, samplers, & weighers","519061",40965.1,596.336,267.0
+2015,"Fishing & hunting workers","453000",40958.2,8324.22,270.0
+2014,"Statistical assistants","439111",40955.9,3928.85,268.0
+2014,"Wholesale & retail buyers, except farm products","131022",40859.8,1899.63,269.0
+2016,"Communications equipment operators, all other","432099",40845.8,5762.76,279.0
+2015,"Firstline supervisors of gaming workers","391010",40826.8,3387.16,271.0
+2015,"Conveyor operators & tenders, & hoist & winch operators","5370XX",40822.9,3680.45,272.0
+2016,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians","4990XX",40798.2,1309.32,280.0
+2014,"Riggers","499096",40780.2,4480.26,270.0
+2016,"Human resources assistants, except payroll & timekeeping","434161",40736.0,2730.91,281.0
+2015,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians","4990XX",40661.7,995.739,273.0
+2015,"Wholesale & retail buyers, except farm products","131022",40604.6,1641.87,274.0
+2015,"Aircraft structure, surfaces, rigging, & systems assemblers","512011",40575.4,5883.47,275.0
+2016,"New accounts clerks","434141",40515.2,4372.6,282.0
+2014,"Conveyor operators & tenders, & hoist & winch operators","5370XX",40514.2,4468.88,271.0
+2014,"Counselors","211010",40510.9,732.101,272.0
+2016,"Meter readers, utilities","435041",40497.1,1869.93,283.0
+2016,"Payroll & timekeeping clerks","433051",40492.0,979.622,284.0
+2016,"Firstline supervisors of housekeeping & janitorial workers","371011",40477.7,1530.88,285.0
+2016,"Court, municipal, & license clerks","434031",40451.1,1853.45,286.0
+2016,"Extruding & drawing machine setters, operators, & tenders, metal & plastic","514021",40442.4,3204.56,287.0
+2014,"Sheet metal workers","472211",40420.0,1186.86,273.0
+2015,"Forging machine setters, operators, & tenders, metal & plastic","514022",40400.9,3882.5,276.0
+2016,"Cargo & freight agents","435011",40382.1,2903.32,288.0
+2014,"Firstline supervisors of personal service workers","391021",40374.1,4092.19,274.0
+2015,"Payroll & timekeeping clerks","433051",40373.7,1163.33,277.0
+2016,"Photographic process workers & processing machine operators","519151",40332.0,4859.85,289.0
+2014,"Recreational therapists","291125",40320.8,4619.73,275.0
+2016,"Painting workers","519120",40314.8,1748.66,290.0
+2014,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians","4990XX",40297.1,1167.97,276.0
+2016,"Opticians, dispensing","292081",40283.2,3915.57,291.0
+2016,"Miscellaneous office & administrative support workers, including desktop publishers","439XXX",40245.6,694.78,292.0
+2015,"Glaziers","472121",40167.4,2818.66,278.0
+2014,"Prepress technicians & workers","515111",40163.7,13762.8,277.0
+2016,"Recreational therapists","291125",40111.4,4109.91,293.0
+2014,"Paving, surfacing, & tamping equipment operators","472071",40059.8,5449.93,278.0
+2014,"Welding, soldering, & brazing workers","514120",40033.1,655.662,279.0
+2015,"Driver/sales workers & truck drivers","533030",40001.3,355.081,279.0
+2015,"Electronic home entertainment equipment installers & repairers","492097",39993.9,3107.93,280.0
+2016,"Insurance claims & policy processing clerks","439041",39907.4,869.528,294.0
+2015,"Engine & other machine assemblers","512031",39901.5,3654.02,281.0
+2016,"Dispatchers","435030",39786.4,907.011,295.0
+2015,"Highway maintenance workers","474051",39700.7,1412.65,282.0
+2016,"Medical records & health information technicians","292071",39525.7,1351.7,296.0
+2015,"Dredge, excavating, & loading machine operators","537030",39507.8,2864.38,283.0
+2016,"Miscellaneous media & communication workers","273090",39426.4,2434.53,297.0
+2016,"Directors, religious activities & education","212021",39371.1,3129.98,298.0
+2014,"Forging machine setters, operators, & tenders, metal & plastic","514022",39242.4,2655.55,280.0
+2014,"Human resources assistants, except payroll & timekeeping","434161",39228.1,2324.9,281.0
+2015,"Dispatchers","435030",39197.2,1003.45,284.0
+2015,"Occupational therapy assistants & aides","312010",39188.6,2283.87,285.0
+2016,"Electronic home entertainment equipment installers & repairers","492097",39148.8,2980.93,299.0
+2016,"Hazardous materials removal workers","474041",39137.4,3214.11,300.0
+2015,"Medical records & health information technicians","292071",39038.9,1478.33,286.0
+2016,"Highway maintenance workers","474051",38967.2,1727.2,301.0
+2016,"Conveyor operators & tenders, & hoist & winch operators","5370XX",38926.2,4699.62,302.0
+2015,"Structural metal fabricators & fitters","512041",38881.6,3252.61,287.0
+2015,"Miscellaneous office & administrative support workers, including desktop publishers","439XXX",38852.1,828.509,288.0
+2014,"Structural metal fabricators & fitters","512041",38808.1,3276.92,282.0
+2014,"New accounts clerks","434141",38789.9,3354.72,283.0
+2014,"Travel agents","413041",38752.0,2278.88,284.0
+2016,"Rolling machine setters, operators, & tenders, metal & plastic","514023",38719.3,4110.12,303.0
+2016,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders","5371XX",38716.0,4022.44,304.0
+2014,"Driver/sales workers & truck drivers","533030",38695.6,381.092,285.0
+2016,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians","5360XX",38688.4,4186.3,305.0
+2015,"Opticians, dispensing","292081",38687.5,3330.86,289.0
+2014,"Electronic home entertainment equipment installers & repairers","492097",38685.9,2515.78,286.0
+2015,"Insurance claims & policy processing clerks","439041",38681.9,835.198,290.0
+2014,"Extruding & drawing machine setters, operators, & tenders, metal & plastic","514021",38661.5,3201.9,287.0
+2016,"Automotive service technicians & mechanics","493023",38600.5,552.672,306.0
+2014,"Miscellaneous life, physical, & social science technicians, including social science research assistants","1940YY",38595.9,2040.31,288.0
+2015,"Directors, religious activities & education","212021",38595.6,2131.37,291.0
+2015,"Firstline supervisors of housekeeping & janitorial workers","371011",38558.1,1840.05,292.0
+2014,"Automotive body & related repairers","493021",38543.7,1511.29,289.0
+2014,"Payroll & timekeeping clerks","433051",38522.6,1352.61,290.0
+2014,"Firstline supervisors of housekeeping & janitorial workers","371011",38472.9,1484.87,291.0
+2015,"Cargo & freight agents","435011",38394.5,2616.55,293.0
+2015,"Crushing, grinding, polishing, mixing, & blending workers","519020",38369.8,1999.91,294.0
+2015,"Automotive service technicians & mechanics","493023",38367.0,654.248,295.0
+2014,"Dispatchers","435030",38356.8,1156.33,292.0
+2016,"Weighers, measurers, checkers, & samplers, recordkeeping","435111",38303.5,4534.39,307.0
+2014,"Glaziers","472121",38269.4,2339.45,293.0
+2016,"Crushing, grinding, polishing, mixing, & blending workers","519020",38268.2,2373.76,308.0
+2015,"Firstline supervisors of personal service workers","391021",38237.2,2769.6,296.0
+2016,"Cement masons, concrete finishers, & terrazzo workers","472050",38225.3,2456.21,309.0
+2016,"Insulation workers","472130",38224.3,2479.79,310.0
+2015,"Recreational therapists","291125",38174.6,4560.75,297.0
+2016,"Miscellaneous life, physical, & social science technicians, including social science research assistants","1940YY",38157.9,1886.19,311.0
+2016,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners","47XXXX",38102.8,2751.7,312.0
+2015,"Model makers, patternmakers, & molding machine setters, metal & plastic","5140XX",38086.7,2488.78,298.0
+2014,"Highway maintenance workers","474051",38070.9,1748.36,294.0
+2014,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians","5360XX",38047.1,3121.07,295.0
+2015,"Insulation workers","472130",38027.1,2976.24,299.0
+2014,"Opticians, dispensing","292081",37962.2,2502.91,296.0
+2016,"Carpenters","472031",37944.3,675.004,313.0
+2016,"Model makers, patternmakers, & molding machine setters, metal & plastic","5140XX",37940.7,2124.36,314.0
+2015,"Court, municipal, & license clerks","434031",37830.6,1138.48,300.0
+2014,"Miscellaneous office & administrative support workers, including desktop publishers","439XXX",37824.6,847.326,297.0
+2014,"Occupational therapy assistants & aides","312010",37821.5,2371.7,298.0
+2015,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders","519041",37818.4,3547.26,301.0
+2016,"Firstline supervisors of personal service workers","391021",37787.5,3317.33,315.0
+2014,"Insurance claims & policy processing clerks","439041",37765.9,1229.44,299.0
+2016,"Pest control workers","372021",37765.6,1880.5,316.0
+2016,"Physical therapist assistants & aides","312020",37733.8,2003.54,317.0
+2016,"Paving, surfacing, & tamping equipment operators","472071",37711.8,3861.62,318.0
+2015,"Furnace, kiln, oven, drier, & kettle operators & tenders","519051",37618.2,4548.23,302.0
+2016,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers","472XXX",37605.0,2165.89,319.0
+2015,"Human resources assistants, except payroll & timekeeping","434161",37533.8,1743.34,303.0
+2015,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders","5371XX",37253.6,2906.66,304.0
+2014,"Parts salespersons","412022",37124.8,3077.08,300.0
+2015,"Miscellaneous media & communication workers","273090",37100.4,2476.22,305.0
+2015,"Miscellaneous law enforcement workers","3330XX",37038.5,4055.43,306.0
+2016,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters","514XXX",36992.0,694.674,320.0
+2014,"Crushing, grinding, polishing, mixing, & blending workers","519020",36988.0,1552.56,301.0
+2016,"Woodworking machine setters, operators, & tenders, except sawing","517042",36973.7,11269.9,321.0
+2014,"Medical records & health information technicians","292071",36926.2,1270.8,302.0
+2015,"Travel agents","413041",36923.0,1823.49,307.0
+2014,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders","5371XX",36912.5,2443.71,303.0
+2014,"Automotive service technicians & mechanics","493023",36880.8,574.841,304.0
+2015,"Jewelers & precious stone & metal workers","519071",36870.3,2715.82,308.0
+2016,"Bookkeeping, accounting, & auditing clerks","433031",36794.8,492.946,322.0
+2014,"Court, municipal, & license clerks","434031",36772.7,1373.32,305.0
+2016,"Plasterers & stucco masons","472161",36762.7,5715.08,323.0
+2014,"Model makers, patternmakers, & molding machine setters, metal & plastic","5140XX",36723.8,1954.72,306.0
+2016,"Photographers","274021",36699.5,2271.33,324.0
+2015,"Extruding & drawing machine setters, operators, & tenders, metal & plastic","514021",36694.3,3419.96,309.0
+2015,"Paper goods machine setters, operators, & tenders","519196",36621.4,3245.61,310.0
+2014,"Engine & other machine assemblers","512031",36476.6,3626.95,307.0
+2014,"Reservation & transportation ticket agents & travel clerks","434181",36461.8,2312.24,308.0
+2015,"Molders, shapers, & casters, except metal & plastic","519195",36418.9,3734.6,311.0
+2016,"Parts salespersons","412022",36417.0,2490.75,325.0
+2015,"Carpenters","472031",36319.5,692.009,312.0
+2015,"Social & human service assistants","211093",36294.0,1140.37,313.0
+2015,"Photographers","274021",36254.6,2585.25,314.0
+2015,"Miscellaneous life, physical, & social science technicians, including social science research assistants","1940YY",36227.9,1456.1,315.0
+2016,"Medical, dental, & ophthalmic laboratory technicians","519080",36178.2,2225.13,326.0
+2015,"Licensed practical & licensed vocational nurses","292061",36166.1,695.468,316.0
+2015,"Cement masons, concrete finishers, & terrazzo workers","472050",36149.4,3068.99,317.0
+2016,"Licensed practical & licensed vocational nurses","292061",36116.0,633.146,327.0
+2015,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers","472XXX",36047.6,1453.24,318.0
+2015,"Painting workers","519120",36022.0,1384.9,319.0
+2016,"Motion picture projectionists","393021",35938.3,13370.1,328.0
+2015,"Information & record clerks, all other","434199",35909.3,2102.24,320.0
+2014,"Physical therapist assistants & aides","312020",35822.4,1418.42,309.0
+2016,"Social & human service assistants","211093",35816.5,1168.72,329.0
+2015,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners","47XXXX",35798.8,2062.33,321.0
+2014,"Directors, religious activities & education","212021",35796.2,2446.71,310.0
+2014,"Painting workers","519120",35786.5,1386.04,311.0
+2016,"Musicians, singers, & related workers","272040",35785.8,3475.14,330.0
+2016,"Machine tool cutting setters, operators, & tenders, metal & plastic","514030",35717.6,1406.95,331.0
+2015,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters","514XXX",35655.8,626.021,322.0
+2014,"Meter readers, utilities","435041",35650.9,2468.71,312.0
+2016,"Printing press operators","515112",35630.4,1091.91,332.0
+2014,"Couriers & messengers","435021",35580.4,1357.76,313.0
+2015,"Gaming services workers","393010",35397.9,1939.5,323.0
+2015,"Weighers, measurers, checkers, & samplers, recordkeeping","435111",35389.3,2295.91,324.0
+2016,"Electronic equipment installers & repairers, motor vehicles","492096",35372.7,4420.14,333.0
+2014,"Licensed practical & licensed vocational nurses","292061",35372.3,492.758,314.0
+2016,"Billing & posting clerks","433021",35361.8,1157.26,334.0
+2014,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners","47XXXX",35361.5,2275.55,315.0
+2016,"Automotive glass installers & repairers","493022",35314.8,3406.87,335.0
+2015,"Bookkeeping, accounting, & auditing clerks","433031",35270.1,487.222,325.0
+2014,"Miscellaneous media & communication workers","273090",35230.1,2368.11,316.0
+2016,"Miscellaneous production workers, including semiconductor processors","5191XX",35219.7,518.35,336.0
+2016,"Information & record clerks, all other","434199",35217.3,1677.49,337.0
+2016,"Bill & account collectors","433011",35205.3,1271.44,338.0
+2015,"Reservation & transportation ticket agents & travel clerks","434181",35198.0,1597.06,326.0
+2014,"Home appliance repairers","499031",35165.1,2922.75,317.0
+2016,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders","519041",35153.8,2556.19,339.0
+2016,"Jewelers & precious stone & metal workers","519071",35063.4,3059.08,340.0
+2015,"Physical therapist assistants & aides","312020",35055.7,1779.49,327.0
+2015,"Automotive glass installers & repairers","493022",35040.8,3311.0,328.0
+2014,"Medical, dental, & ophthalmic laboratory technicians","519080",35038.7,1759.97,318.0
+2016,"Athletes, coaches, umpires, & related workers","272020",35029.7,2283.18,341.0
+2016,"Correspondence clerks & order clerks","434XXX",35016.7,2368.62,342.0
+2014,"Bookkeeping, accounting, & auditing clerks","433031",35003.5,396.786,319.0
+2015,"Medical, dental, & ophthalmic laboratory technicians","519080",34934.8,1842.88,329.0
+2016,"Upholsterers","516093",34915.9,2307.32,343.0
+2015,"Miscellaneous production workers, including semiconductor processors","5191XX",34892.0,479.716,330.0
+2015,"Photographic process workers & processing machine operators","519151",34885.5,4537.72,331.0
+2016,"Small engine mechanics","493050",34835.8,2527.36,344.0
+2016,"Secretaries & administrative assistants","436010",34826.8,270.163,345.0
+2014,"Printing press operators","515112",34779.9,1143.73,320.0
+2014,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders","519041",34769.8,3381.92,321.0
+2014,"Paper goods machine setters, operators, & tenders","519196",34742.7,2954.5,322.0
+2014,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters","514XXX",34724.2,626.916,323.0
+2015,"Athletes, coaches, umpires, & related workers","272020",34717.2,2400.59,332.0
+2014,"Information & record clerks, all other","434199",34674.9,1439.82,324.0
+2015,"Couriers & messengers","435021",34666.2,1326.59,333.0
+2016,"Cabinetmakers & bench carpenters","517011",34653.4,1631.63,346.0
+2016,"Molders, shapers, & casters, except metal & plastic","519195",34619.6,3997.49,347.0
+2015,"Printing press operators","515112",34609.7,1046.35,334.0
+2014,"Animal control workers","339011",34496.7,3639.83,325.0
+2014,"Jewelers & precious stone & metal workers","519071",34495.5,3442.86,326.0
+2014,"Carpenters","472031",34494.5,530.032,327.0
+2014,"Fishing & hunting workers","453000",34472.1,4072.87,328.0
+2015,"Musicians, singers, & related workers","272040",34436.4,3357.85,335.0
+2014,"Social & human service assistants","211093",34406.1,1306.34,329.0
+2015,"Secretaries & administrative assistants","436010",34228.7,287.5,336.0
+2015,"Parts salespersons","412022",34200.2,1882.69,337.0
+2015,"Pest control workers","372021",34148.6,1680.08,338.0
+2015,"Billing & posting clerks","433021",34027.6,853.519,339.0
+2014,"Pest control workers","372021",33987.1,2320.82,330.0
+2014,"Photographers","274021",33941.6,2148.37,331.0
+2016,"Logging workers","454020",33933.6,2518.12,348.0
+2016,"Couriers & messengers","435021",33909.5,1266.05,349.0
+2014,"Musicians, singers, & related workers","272040",33903.8,3095.09,332.0
+2015,"Machine tool cutting setters, operators, & tenders, metal & plastic","514030",33898.5,1211.51,340.0
+2015,"Carpet, floor, & tile installers & finishers","472040",33822.3,2052.07,341.0
+2014,"Bill & account collectors","433011",33605.8,1535.06,333.0
+2015,"Bill & account collectors","433011",33602.1,1020.14,342.0
+2016,"Carpet, floor, & tile installers & finishers","472040",33566.1,1342.89,350.0
+2016,"Industrial truck & tractor operators","537051",33503.4,631.756,351.0
+2014,"Weighers, measurers, checkers, & samplers, recordkeeping","435111",33446.0,1969.41,334.0
+2014,"Molders, shapers, & casters, except metal & plastic","519195",33442.1,3100.95,335.0
+2016,"Coin, vending, & amusement machine servicers & repairers","499091",33439.6,2457.19,352.0
+2016,"Construction laborers","472061",33408.3,604.829,353.0
+2016,"Gaming services workers","393010",33397.1,1267.39,354.0
+2014,"Coin, vending, & amusement machine servicers & repairers","499091",33386.0,2745.93,336.0
+2016,"Entertainers & performers, sports & related workers, all other","272099",33382.6,4878.44,355.0
+2014,"Small engine mechanics","493050",33298.4,2165.77,337.0
+2014,"Gaming services workers","393010",33284.0,1453.83,338.0
+2014,"Miscellaneous production workers, including semiconductor processors","5191XX",33253.8,486.495,339.0
+2014,"Cement masons, concrete finishers, & terrazzo workers","472050",33234.7,1866.16,340.0
+2016,"Chefs & head cooks","351011",33184.1,838.023,356.0
+2014,"Athletes, coaches, umpires, & related workers","272020",33181.9,2690.51,341.0
+2014,"Secretaries & administrative assistants","436010",33160.2,260.127,342.0
+2014,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers","472XXX",33152.7,1821.54,343.0
+2014,"Cabinetmakers & bench carpenters","517011",33112.7,1952.48,344.0
+2016,"Animal control workers","339011",33072.8,3569.86,357.0
+2014,"Machine tool cutting setters, operators, & tenders, metal & plastic","514030",33038.1,1191.71,345.0
+2015,"Logging workers","454020",33037.1,2917.23,343.0
+2015,"Construction laborers","472061",33000.5,470.492,344.0
+2014,"Billing & posting clerks","433021",32828.6,730.798,346.0
+2016,"Refuse & recyclable material collectors","537081",32744.1,2275.19,358.0
+2016,"Food processing workers, all other","513099",32714.0,1282.37,359.0
+2016,"Prepress technicians & workers","515111",32668.5,2898.87,360.0
+2015,"Miscellaneous woodworkers, including model makers & patternmakers","5170XX",32561.0,2713.95,345.0
+2014,"Miscellaneous textile, apparel, & furnishings workers except upholsterers","51609X",32487.1,3105.01,347.0
+2015,"Forest & conservation workers","454011",32458.0,4824.92,346.0
+2014,"Automotive glass installers & repairers","493022",32415.0,2761.77,348.0
+2015,"Entertainers & performers, sports & related workers, all other","272099",32329.1,4246.67,347.0
+2015,"Etchers & engravers","519194",32244.0,5352.8,348.0
+2014,"Etchers & engravers","519194",32194.9,4680.98,349.0
+2015,"Electrical, electronics, & electromechanical assemblers","512020",32129.2,1332.03,349.0
+2014,"Construction laborers","472061",32099.2,495.676,350.0
+2016,"Proofreaders & copy markers","439081",32041.5,4542.61,361.0
+2014,"Miscellaneous woodworkers, including model makers & patternmakers","5170XX",32023.8,1971.62,351.0
+2016,"Health practitioner support technologists & technicians","292050",31919.0,725.317,362.0
+2015,"Small engine mechanics","493050",31859.2,2884.38,350.0
+2014,"Photographic process workers & processing machine operators","519151",31784.0,2546.4,352.0
+2014,"Food processing workers, all other","513099",31738.1,1687.67,353.0
+2015,"Food processing workers, all other","513099",31697.5,1066.82,351.0
+2015,"Prepress technicians & workers","515111",31692.2,2515.38,352.0
+2015,"Industrial truck & tractor operators","537051",31648.0,598.452,353.0
+2016,"Painters & paperhangers","472140",31646.9,1086.49,363.0
+2014,"Plasterers & stucco masons","472161",31631.1,2974.56,354.0
+2016,"Print binding & finishing workers","515113",31618.6,2823.12,364.0
+2015,"Cabinetmakers & bench carpenters","517011",31565.7,1879.78,354.0
+2016,"Electrical, electronics, & electromechanical assemblers","512020",31553.1,808.848,365.0
+2014,"Textile knitting & weaving machine setters, operators, & tenders","516063",31517.6,5911.94,355.0
+2016,"Other teachers & instructors","253000",31503.5,811.157,366.0
+2014,"Other teachers & instructors","253000",31497.6,805.451,356.0
+2015,"Coin, vending, & amusement machine servicers & repairers","499091",31482.8,2670.69,355.0
+2014,"Pharmacy aides","319095",31478.4,3669.76,357.0
+2014,"Industrial truck & tractor operators","537051",31403.7,613.048,358.0
+2016,"Etchers & engravers","519194",31388.3,4443.6,367.0
+2015,"Correspondence clerks & order clerks","434XXX",31371.7,1568.93,356.0
+2015,"Miscellaneous assemblers & fabricators","512090",31367.7,512.413,357.0
+2014,"Logging workers","454020",31365.9,1940.88,359.0
+2016,"Roofers","472181",31355.1,1653.88,368.0
+2015,"Paving, surfacing, & tamping equipment operators","472071",31322.4,5502.79,358.0
+2015,"Chefs & head cooks","351011",31318.9,749.065,359.0
+2015,"Drywall installers, ceiling tile installers, & tapers","472080",31311.6,1559.56,360.0
+2016,"Dancers & choreographers","272030",31262.1,6426.09,369.0
+2016,"Customer service representatives","434051",31254.3,414.772,370.0
+2015,"Upholsterers","516093",31229.5,2402.87,361.0
+2016,"Miscellaneous assemblers & fabricators","512090",31132.8,448.88,371.0
+2015,"Adhesive bonding machine operators & tenders","519191",31119.6,3925.34,362.0
+2016,"Ambulance drivers & attendants, except emergency medical technicians","533011",31095.0,9234.35,372.0
+2015,"Miscellaneous textile, apparel, & furnishings workers except upholsterers","51609X",31041.4,3486.88,363.0
+2016,"Drywall installers, ceiling tile installers, & tapers","472080",31011.2,1124.09,373.0
+2014,"Chefs & head cooks","351011",31005.1,645.947,360.0
+2014,"Carpet, floor, & tile installers & finishers","472040",30990.6,1502.99,361.0
+2016,"Miscellaneous woodworkers, including model makers & patternmakers","5170XX",30943.0,2883.91,374.0
+2014,"Drywall installers, ceiling tile installers, & tapers","472080",30927.7,1360.33,362.0
+2014,"Animal trainers","392011",30924.7,6229.61,363.0
+2015,"Health practitioner support technologists & technicians","292050",30875.4,598.706,364.0
+2016,"Security guards & gaming surveillance officers","339030",30869.5,571.133,375.0
+2015,"Food & tobacco roasting, baking, & drying machine operators & tenders","513091",30855.1,3705.07,365.0
+2016,"Word processors & typists","439022",30689.4,861.805,376.0
+2016,"Miscellaneous textile, apparel, & furnishings workers except upholsterers","51609X",30527.3,3889.75,377.0
+2014,"Correspondence clerks & order clerks","434XXX",30487.8,1661.28,364.0
+2015,"Word processors & typists","439022",30435.8,1064.27,366.0
+2016,"Machine feeders & offbearers","537063",30355.0,7327.9,378.0
+2016,"Interviewers, except eligibility & loan","434111",30343.2,1530.14,379.0
+2015,"Plasterers & stucco masons","472161",30285.5,2002.22,367.0
+2016,"Office clerks, general","439061",30255.7,464.71,380.0
+2015,"Security guards & gaming surveillance officers","339030",30158.2,597.694,368.0
+2014,"Miscellaneous assemblers & fabricators","512090",30145.9,441.449,365.0
+2014,"Telephone operators","432021",30127.4,5271.11,366.0
+2014,"Security guards & gaming surveillance officers","339030",30114.5,550.487,367.0
+2015,"Dancers & choreographers","272030",30100.6,4227.45,369.0
+2016,"Military enlisted tactical operations & air/weapons specialists & crew members","553010",29971.2,1570.36,381.0
+2016,"Shipping, receiving, & traffic clerks","435071",29966.9,511.205,382.0
+2015,"Roofers","472181",29813.4,1177.43,370.0
+2015,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers","493090",29799.2,2841.68,371.0
+2016,"Fence erectors","474031",29776.8,2433.38,383.0
+2015,"Other teachers & instructors","253000",29761.9,774.901,372.0
+2015,"Customer service representatives","434051",29728.0,339.182,373.0
+2016,"Telephone operators","432021",29668.3,3273.5,384.0
+2016,"Phlebotomists","319097",29659.2,1011.55,385.0
+2015,"Baggage porters, bellhops, & concierges","396010",29647.9,2008.55,374.0
+2014,"Customer service representatives","434051",29642.9,424.883,368.0
+2014,"Upholsterers","516093",29633.4,2134.89,369.0
+2014,"Painters & paperhangers","472140",29542.6,796.232,370.0
+2016,"Butchers & other meat, poultry, & fish processing workers","513020",29495.9,1082.17,386.0
+2016,"Furniture finishers","517021",29457.2,3003.96,387.0
+2014,"Word processors & typists","439022",29422.1,717.246,371.0
+2015,"Painters & paperhangers","472140",29398.9,765.346,375.0
+2016,"Dental assistants","319091",29383.6,851.021,388.0
+2016,"Medical assistants","319092",29381.6,590.313,389.0
+2016,"Textile knitting & weaving machine setters, operators, & tenders","516063",29370.5,3193.6,390.0
+2016,"Data entry keyers","439021",29352.7,1111.08,391.0
+2015,"Office clerks, general","439061",29237.9,478.587,376.0
+2014,"Proofreaders & copy markers","439081",29228.0,3814.99,372.0
+2015,"Shipping, receiving, & traffic clerks","435071",29166.8,484.314,377.0
+2014,"Shipping, receiving, & traffic clerks","435071",29131.0,610.673,373.0
+2016,"Adhesive bonding machine operators & tenders","519191",29102.8,6079.61,392.0
+2015,"Furniture finishers","517021",29072.6,2035.62,378.0
+2016,"Sawing machine setters, operators, & tenders, wood","517041",29057.9,2061.43,393.0
+2014,"Furniture finishers","517021",29048.5,2780.17,374.0
+2014,"Office clerks, general","439061",28988.4,489.818,375.0
+2015,"Refuse & recyclable material collectors","537081",28984.6,1693.23,379.0
+2015,"Pharmacy aides","319095",28950.7,2925.54,380.0
+2015,"Dental assistants","319091",28861.1,933.104,381.0
+2015,"Interviewers, except eligibility & loan","434111",28825.6,1204.53,382.0
+2014,"Refuse & recyclable material collectors","537081",28805.3,1747.03,376.0
+2016,"Retail salespersons","412031",28596.2,449.878,394.0
+2014,"Medical assistants","319092",28594.1,676.17,377.0
+2014,"Adhesive bonding machine operators & tenders","519191",28557.1,5254.07,378.0
+2015,"Animal trainers","392011",28467.2,2717.57,383.0
+2014,"Roofers","472181",28428.7,1269.82,379.0
+2016,"Baggage porters, bellhops, & concierges","396010",28406.0,1636.24,395.0
+2014,"Electrical, electronics, & electromechanical assemblers","512020",28405.8,935.818,380.0
+2015,"Butchers & other meat, poultry, & fish processing workers","513020",28367.8,866.546,384.0
+2014,"Data entry keyers","439021",28365.9,985.087,381.0
+2015,"Print binding & finishing workers","515113",28320.4,1989.31,385.0
+2015,"Religious workers, all other","212099",28289.3,2050.14,386.0
+2015,"Data entry keyers","439021",28287.6,729.198,387.0
+2016,"Bus drivers","533020",28262.7,570.956,396.0
+2015,"Medical assistants","319092",28240.7,599.242,388.0
+2016,"Healthcare support workers, all other, including medical equipment preparers","31909X",28225.9,1270.22,397.0
+2014,"Interviewers, except eligibility & loan","434111",28210.6,1318.45,382.0
+2014,"Phlebotomists","319097",28170.5,1030.48,383.0
+2015,"Cutting workers","519030",28127.9,1785.35,389.0
+2016,"Food batchmakers","513092",28078.9,2330.17,398.0
+2014,"Food & tobacco roasting, baking, & drying machine operators & tenders","513091",27941.2,4436.13,384.0
+2015,"Phlebotomists","319097",27936.7,799.698,390.0
+2014,"Religious workers, all other","212099",27852.6,1613.29,385.0
+2016,"Animal trainers","392011",27774.6,3661.44,399.0
+2014,"Textile winding, twisting, & drawing out machine setters, operators, & tenders","516064",27688.7,3137.45,386.0
+2014,"Butchers & other meat, poultry, & fish processing workers","513020",27688.1,887.403,387.0
+2014,"Medical transcriptionists","319094",27626.1,1530.76,388.0
+2014,"Dental assistants","319091",27577.4,619.478,389.0
+2016,"Packaging & filling machine operators & tenders","519111",27554.4,1185.8,400.0
+2015,"Gaming cage workers","433041",27508.5,3721.84,391.0
+2015,"Switchboard operators, including answering service","432011",27494.4,2265.79,392.0
+2015,"Retail salespersons","412031",27442.1,373.951,393.0
+2016,"Gaming cage workers","433041",27429.6,3422.89,401.0
+2014,"Forest & conservation workers","454011",27423.3,2892.21,390.0
+2014,"Transportation attendants, except flight attendants","536061",27410.6,3203.27,391.0
+2016,"Food & tobacco roasting, baking, & drying machine operators & tenders","513091",27398.9,5482.74,402.0
+2015,"Fence erectors","474031",27312.4,2490.0,394.0
+2014,"Print binding & finishing workers","515113",27298.1,2498.55,392.0
+2015,"Bus drivers","533020",27270.0,634.865,395.0
+2015,"Tailors, dressmakers, & sewers","516050",27171.7,3340.03,396.0
+2015,"Helpers, construction trades","473010",27119.2,2836.01,397.0
+2014,"Machine feeders & offbearers","537063",27116.7,3784.89,393.0
+2015,"Textile knitting & weaving machine setters, operators, & tenders","516063",27112.5,2434.89,398.0
+2016,"Switchboard operators, including answering service","432011",27100.5,2488.47,403.0
+2014,"Retail salespersons","412031",27074.9,407.643,394.0
+2016,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers","493090",26961.6,1453.49,404.0
+2014,"Fence erectors","474031",26904.1,3244.14,395.0
+2015,"Firstline supervisors of food preparation & serving workers","351012",26865.8,934.18,399.0
+2014,"Ambulance drivers & attendants, except emergency medical technicians","533011",26819.3,3878.02,396.0
+2016,"Tailors, dressmakers, & sewers","516050",26787.7,2222.5,405.0
+2015,"Proofreaders & copy markers","439081",26740.4,3888.24,400.0
+2016,"Cutting workers","519030",26715.9,1790.1,406.0
+2016,"Firstline supervisors of food preparation & serving workers","351012",26705.6,626.264,407.0
+2014,"Baggage porters, bellhops, & concierges","396010",26653.8,1315.53,397.0
+2016,"Counter & rental clerks","412021",26593.7,1824.03,408.0
+2015,"Sawing machine setters, operators, & tenders, wood","517041",26484.6,1845.0,401.0
+2014,"Bus drivers","533020",26482.0,645.339,398.0
+2015,"File clerks","434071",26434.3,859.185,402.0
+2015,"Medical transcriptionists","319094",26410.8,1429.11,403.0
+2016,"Pharmacy aides","319095",26366.3,2987.0,409.0
+2016,"Shoe & leather workers","516040",26361.7,3577.61,410.0
+2014,"Sawing machine setters, operators, & tenders, wood","517041",26354.4,2076.89,399.0
+2014,"Taxi drivers & chauffeurs","533041",26268.3,780.49,400.0
+2015,"Telephone operators","432021",26267.3,2015.22,404.0
+2015,"Military enlisted tactical operations & air/weapons specialists & crew members","553010",26263.5,1244.57,405.0
+2015,"Healthcare support workers, all other, including medical equipment preparers","31909X",26211.4,1058.31,406.0
+2014,"Tailors, dressmakers, & sewers","516050",26159.7,2029.72,401.0
+2016,"Helpersinstallation, maintenance, & repair workers ","499098",26093.8,3608.6,411.0
+2015,"Ambulance drivers & attendants, except emergency medical technicians","533011",26022.9,3345.38,407.0
+2016,"File clerks","434071",26021.7,930.101,412.0
+2015,"Taxi drivers & chauffeurs","533041",25987.2,1187.29,408.0
+2014,"Military enlisted tactical operations & air/weapons specialists & crew members","553010",25949.4,1124.48,402.0
+2016,"Religious workers, all other","212099",25930.3,1594.09,413.0
+2016,"Embalmers & funeral attendants","3940XX",25914.4,5852.11,414.0
+2016,"Laborers & freight, stock, & material movers, hand","537062",25873.3,378.162,415.0
+2016,"Taxi drivers & chauffeurs","533041",25832.9,759.28,416.0
+2015,"Shoe & leather workers","516040",25819.2,4460.3,409.0
+2014,"File clerks","434071",25815.0,916.618,403.0
+2014,"Switchboard operators, including answering service","432011",25728.8,1939.46,404.0
+2015,"Packaging & filling machine operators & tenders","519111",25716.9,887.127,410.0
+2014,"Shoe & leather workers","516040",25710.0,3838.66,405.0
+2016,"Medical transcriptionists","319094",25693.4,1908.3,417.0
+2015,"Counter & rental clerks","412021",25570.5,1844.46,411.0
+2014,"Dancers & choreographers","272030",25561.7,4747.22,406.0
+2014,"Cutting workers","519030",25513.9,1654.03,407.0
+2014,"Gaming cage workers","433041",25465.9,3036.59,408.0
+2015,"Laborers & freight, stock, & material movers, hand","537062",25376.6,366.819,412.0
+2014,"Woodworking machine setters, operators, & tenders, except sawing","517042",25333.4,1787.75,409.0
+2016,"Office machine operators, except computer","439071",25284.4,2486.8,418.0
+2014,"Mail clerks & mail machine operators, except postal service","439051",25100.7,1093.85,410.0
+2016,"Doortodoor sales workers, news & street vendors, & related workers","419091",25086.4,2502.26,419.0
+2015,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders","51606X",25064.9,3010.6,413.0
+2015,"Textile winding, twisting, & drawing out machine setters, operators, & tenders","516064",25038.0,2300.46,414.0
+2015,"Motion picture projectionists","393021",25017.4,18577.4,415.0
+2015,"Woodworking machine setters, operators, & tenders, except sawing","517042",25001.0,2585.14,416.0
+2014,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers","493090",24940.4,2102.99,411.0
+2014,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders","51606X",24909.4,2640.23,412.0
+2014,"Healthcare support workers, all other, including medical equipment preparers","31909X",24882.5,1087.18,413.0
+2014,"Packaging & filling machine operators & tenders","519111",24877.6,659.548,414.0
+2014,"Counter & rental clerks","412021",24836.7,2141.78,415.0
+2014,"Helpers, construction trades","473010",24833.5,1624.54,416.0
+2014,"Laborers & freight, stock, & material movers, hand","537062",24806.1,327.199,417.0
+2016,"Massage therapists","319011",24781.3,1272.91,420.0
+2015,"Helpersproduction workers","519198",24723.3,2291.25,417.0
+2015,"Transportation attendants, except flight attendants","536061",24714.2,3545.37,418.0
+2014,"Office machine operators, except computer","439071",24689.7,2123.64,418.0
+2016,"Mail clerks & mail machine operators, except postal service","439051",24686.0,1222.14,421.0
+2014,"Firstline supervisors of food preparation & serving workers","351012",24643.6,635.914,419.0
+2016,"Janitors & building cleaners","37201X",24627.1,317.697,422.0
+2015,"Embalmers & funeral attendants","3940XX",24604.8,3359.02,419.0
+2016,"Sewing machine operators","516031",24493.1,1575.92,423.0
+2015,"Mail clerks & mail machine operators, except postal service","439051",24461.7,1142.78,420.0
+2016,"Hairdressers, hairstylists, & cosmetologists","395012",24438.3,568.362,424.0
+2016,"Bartenders","353011",24390.5,682.082,425.0
+2015,"Office machine operators, except computer","439071",24386.0,1799.26,421.0
+2014,"Food batchmakers","513092",24376.4,1359.02,420.0
+2016,"Textile winding, twisting, & drawing out machine setters, operators, & tenders","516064",24132.2,2043.18,426.0
+2016,"Helpersproduction workers","519198",24128.6,2510.08,427.0
+2016,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders","51606X",24065.2,1861.63,428.0
+2016,"Nursing, psychiatric, & home health aides","311010",23957.1,340.571,429.0
+2016,"Transportation attendants, except flight attendants","536061",23936.0,2557.55,430.0
+2016,"Preschool & kindergarten teachers","252010",23910.6,580.461,431.0
+2014,"Barbers","395011",23610.5,1576.48,421.0
+2015,"Tellers","433071",23576.7,777.617,422.0
+2016,"Helpers, construction trades","473010",23574.6,1878.42,432.0
+2016,"Veterinary assistants & laboratory animal caretakers","319096",23563.9,2210.58,433.0
+2015,"Helpersinstallation, maintenance, & repair workers ","499098",23537.2,2426.21,423.0
+2014,"Veterinary assistants & laboratory animal caretakers","319096",23510.4,2218.22,422.0
+2016,"Grounds maintenance workers","373010",23465.7,553.833,434.0
+2015,"Janitors & building cleaners","37201X",23379.8,313.092,424.0
+2015,"Preschool & kindergarten teachers","252010",23378.7,482.306,425.0
+2016,"Automotive & watercraft service attendants-","536031",23296.0,1597.45,435.0
+2015,"Nursing, psychiatric, & home health aides","311010",23284.6,337.543,426.0
+2014,"Janitors & building cleaners","37201X",23280.1,300.982,423.0
+2016,"Tellers","433071",23137.7,560.283,436.0
+2015,"Bartenders","353011",23112.5,745.979,427.0
+2014,"Preschool & kindergarten teachers","252010",23084.5,586.455,424.0
+2015,"Food batchmakers","513092",23075.5,1084.68,428.0
+2015,"Massage therapists","319011",22969.2,985.092,429.0
+2016,"Receptionists & information clerks","434171",22963.5,397.096,437.0
+2014,"Nursing, psychiatric, & home health aides","311010",22937.1,307.164,425.0
+2016,"Food cooking machine operators & tenders","513093",22912.9,2702.77,438.0
+2014,"Massage therapists","319011",22887.2,1090.91,426.0
+2014,"Helpersproduction workers","519198",22856.0,1958.07,427.0
+2014,"Tellers","433071",22786.9,481.755,428.0
+2015,"Hairdressers, hairstylists, & cosmetologists","395012",22782.9,584.516,430.0
+2015,"Doortodoor sales workers, news & street vendors, & related workers","419091",22721.2,2147.02,431.0
+2014,"Food cooking machine operators & tenders","513093",22634.6,3527.33,429.0
+2015,"Receptionists & information clerks","434171",22558.1,391.722,432.0
+2016,"Laundry & drycleaning workers","516011",22487.5,1406.56,439.0
+2014,"Sewing machine operators","516031",22487.0,1456.29,430.0
+2015,"Machine feeders & offbearers","537063",22428.7,2179.06,433.0
+2016,"Stock clerks & order fillers","435081",22296.4,325.865,440.0
+2016,"Bakers","513011",22256.6,737.053,441.0
+2016,"Cleaners of vehicles & equipment","537061",22254.3,764.796,442.0
+2015,"Veterinary assistants & laboratory animal caretakers","319096",22178.4,1791.3,434.0
+2016,"Recreation & fitness workers","399030",22177.1,858.493,443.0
+2014,"Bartenders","353011",22132.7,548.228,431.0
+2014,"Doortodoor sales workers, news & street vendors, & related workers","419091",22129.4,2001.01,432.0
+2015,"Grounds maintenance workers","373010",22101.7,408.207,435.0
+2014,"Receptionists & information clerks","434171",21939.7,311.136,433.0
+2014,"Hairdressers, hairstylists, & cosmetologists","395012",21934.0,641.825,434.0
+2016,"Telemarketers","419041",21917.6,2266.86,444.0
+2015,"Sewing machine operators","516031",21885.1,787.85,436.0
+2016,"Barbers","395011",21799.7,1684.42,445.0
+2015,"Barbers","395011",21759.3,1147.6,437.0
+2016,"Miscellaneous agricultural workers, including animal breeders","4520XX",21696.7,433.497,446.0
+2015,"Bakers","513011",21689.6,765.687,438.0
+2015,"Recreation & fitness workers","399030",21683.6,916.838,439.0
+2015,"Stock clerks & order fillers","435081",21645.9,331.971,440.0
+2014,"Embalmers & funeral attendants","3940XX",21607.7,6158.59,435.0
+2014,"Grounds maintenance workers","373010",21488.2,363.663,436.0
+2014,"Bakers","513011",21467.4,889.858,437.0
+2014,"Recreation & fitness workers","399030",21435.2,915.488,438.0
+2015,"Telemarketers","419041",21407.0,2401.36,441.0
+2014,"Cleaners of vehicles & equipment","537061",21308.1,906.598,439.0
+2016,"Miscellaneous personal appearance workers","395090",21301.9,571.648,447.0
+2015,"Parking lot attendants","536021",21295.8,2499.45,442.0
+2015,"Miscellaneous agricultural workers, including animal breeders","4520XX",21283.5,466.949,443.0
+2016,"Personal care & service workers, all other ","399099",21265.2,1624.85,448.0
+2014,"Stock clerks & order fillers","435081",21213.5,298.656,440.0
+2014,"Helpersinstallation, maintenance, & repair workers ","499098",21141.8,2122.15,441.0
+2015,"Miscellaneous personal appearance workers","395090",20757.5,917.047,444.0
+2015,"Laundry & drycleaning workers","516011",20703.5,922.685,445.0
+2016,"Packers & packagers, hand","537064",20606.0,561.748,449.0
+2016,"Teacher assistants","259041",20563.4,372.4,450.0
+2016,"Motor vehicle operators, all other","533099",20488.2,2174.0,451.0
+2015,"Cleaners of vehicles & equipment","537061",20466.7,584.401,446.0
+2014,"Automotive & watercraft service attendants-","536031",20400.4,1360.66,442.0
+2014,"Laundry & drycleaning workers","516011",20366.8,1215.82,443.0
+2014,"Miscellaneous agricultural workers, including animal breeders","4520XX",20236.2,454.333,444.0
+2015,"Packers & packagers, hand","537064",20218.2,623.235,447.0
+2016,"Nonfarm animal caretakers","392021",20087.7,901.081,452.0
+2015,"Teacher assistants","259041",20068.0,379.176,448.0
+2015,"Models, demonstrators, & product promoters","419010",20036.6,2689.27,449.0
+2016,"Hotel, motel, & resort desk clerks","434081",19980.1,1161.72,453.0
+2015,"Graders & sorters, agricultural products","452041",19963.0,1869.27,450.0
+2016,"Models, demonstrators, & product promoters","419010",19955.4,2258.79,454.0
+2014,"Pressers, textile, garment, & related materials","516021",19795.7,1685.06,445.0
+2014,"Parking lot attendants","536021",19790.4,1485.18,446.0
+2015,"Pressers, textile, garment, & related materials","516021",19780.8,1489.08,451.0
+2015,"Hotel, motel, & resort desk clerks","434081",19715.6,1073.81,452.0
+2015,"Food cooking machine operators & tenders","513093",19676.1,3318.8,453.0
+2015,"Personal care & service workers, all other ","399099",19665.8,1099.74,454.0
+2014,"Miscellaneous personal appearance workers","395090",19656.2,545.155,447.0
+2014,"Teacher assistants","259041",19436.1,393.187,448.0
+2016,"Personal care aides","399021",19411.5,383.633,455.0
+2014,"Packers & packagers, hand","537064",19348.0,476.403,449.0
+2014,"Hotel, motel, & resort desk clerks","434081",19295.6,1069.44,450.0
+2015,"Automotive & watercraft service attendants-","536031",19267.8,1084.08,455.0
+2016,"Parking lot attendants","536021",19195.4,1063.09,456.0
+2015,"Nonfarm animal caretakers","392021",19003.2,869.556,456.0
+2015,"Library technicians","254031",18978.9,2829.75,457.0
+2016,"Maids & housekeeping cleaners","372012",18967.4,349.05,457.0
+2014,"Motion picture projectionists","393021",18960.1,8571.27,451.0
+2016,"Pressers, textile, garment, & related materials","516021",18941.0,1189.76,458.0
+2014,"Telemarketers","419041",18904.3,1536.21,452.0
+2015,"Tour & travel guides","397010",18898.9,2684.43,458.0
+2014,"Nonfarm animal caretakers","392021",18712.5,804.518,453.0
+2014,"Motor vehicle operators, all other","533099",18629.4,1709.23,454.0
+2016,"Food servers, nonrestaurant","353041",18440.2,1015.67,459.0
+2015,"Personal care aides","399021",18368.7,392.683,459.0
+2015,"Motor vehicle operators, all other","533099",18271.1,1640.95,460.0
+2014,"Food servers, nonrestaurant","353041",18185.0,895.663,455.0
+2016,"Graders & sorters, agricultural products","452041",17898.4,1115.0,460.0
+2015,"Maids & housekeeping cleaners","372012",17861.1,296.85,461.0
+2016,"Cooks","352010",17838.9,258.49,461.0
+2014,"Graders & sorters, agricultural products","452041",17772.3,2720.4,456.0
+2014,"Models, demonstrators, & product promoters","419010",17754.8,2042.04,457.0
+2014,"Personal care aides","399021",17635.8,361.957,458.0
+2014,"Maids & housekeeping cleaners","372012",17525.2,358.283,459.0
+2016,"Library assistants, clerical","434121",17517.1,946.14,462.0
+2014,"Personal care & service workers, all other ","399099",17198.0,1102.51,460.0
+2016,"Tour & travel guides","397010",17053.6,1490.72,463.0
+2015,"Food servers, nonrestaurant","353041",17001.9,628.569,462.0
+2014,"Library assistants, clerical","434121",16949.7,767.012,461.0
+2015,"Cooks","352010",16764.0,238.898,463.0
+2016,"Waiters & waitresses","353031",16678.2,211.81,464.0
+2015,"Crossing guards","339091",16640.0,1942.21,464.0
+2014,"Crossing guards","339091",16604.7,1715.23,462.0
+2016,"Library technicians","254031",16485.9,1375.8,465.0
+2014,"Cooks","352010",16371.7,250.854,463.0
+2015,"Library assistants, clerical","434121",16336.1,858.7,465.0
+2014,"Tour & travel guides","397010",16271.8,1787.54,464.0
+2015,"Waiters & waitresses","353031",15814.7,201.662,466.0
+2016,"Crossing guards","339091",15765.3,2163.91,466.0
+2016,"Childcare workers","399011",15473.5,404.699,467.0
+2014,"Waiters & waitresses","353031",15261.8,242.409,465.0
+2016,"Miscellaneous entertainment attendants & related workers","393090",14949.9,1001.29,468.0
+2014,"Library technicians","254031",14749.8,1354.2,466.0
+2015,"Childcare workers","399011",14726.6,419.235,467.0
+2016,"Combined food preparation & serving workers, including fast food","353021",14669.7,696.675,469.0
+2015,"Residential advisors","399041",14318.9,1090.65,468.0
+2016,"Cashiers","412010",14285.1,279.197,470.0
+2014,"Childcare workers","399011",14254.0,428.721,467.0
+2016,"Residential advisors","399041",14222.4,978.151,471.0
+2014,"Residential advisors","399041",14052.9,1512.26,468.0
+2015,"Cashiers","412010",13547.3,203.403,469.0
+2014,"Miscellaneous entertainment attendants & related workers","393090",13509.9,774.474,469.0
+2016,"Food preparation workers","352021",13384.6,319.838,472.0
+2014,"Cashiers","412010",13261.1,184.378,470.0
+2016,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers","3590XX",13253.0,731.416,473.0
+2015,"Miscellaneous entertainment attendants & related workers","393090",13234.2,897.042,470.0
+2015,"Food preparation workers","352021",13199.3,309.332,471.0
+2014,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers","3590XX",13057.0,576.488,471.0
+2015,"Combined food preparation & serving workers, including fast food","353021",13033.0,621.346,472.0
+2016,"Ushers, lobby attendants, & ticket takers","393031",12996.2,3974.68,474.0
+2015,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers","3590XX",12926.7,571.574,473.0
+2016,"Dishwashers","359021",12740.5,700.34,475.0
+2014,"Food preparation workers","352021",12513.6,215.878,472.0
+2014,"Combined food preparation & serving workers, including fast food","353021",12378.5,358.178,473.0
+2015,"Dishwashers","359021",11893.1,593.497,474.0
+2014,"Dishwashers","359021",11307.0,367.072,474.0
+2015,"Lifeguards & other recreational, & all other protective service workers","33909X",10509.7,997.065,475.0
+2016,"Lifeguards & other recreational, & all other protective service workers","33909X",10483.7,962.675,476.0
+2014,"Lifeguards & other recreational, & all other protective service workers","33909X",9819.24,684.756,475.0
+2016,"Hosts & hostesses, restaurant, lounge, & coffee shop","359031",9583.08,690.581,477.0
+2015,"Ushers, lobby attendants, & ticket takers","393031",9121.4,1160.19,476.0
+2016,"Counter attendants, cafeteria, food concession, & coffee shop","353022",8845.85,879.436,478.0
+2015,"Counter attendants, cafeteria, food concession, & coffee shop","353022",8788.52,462.933,477.0
+2014,"Ushers, lobby attendants, & ticket takers","393031",8651.08,989.397,476.0
+2014,"Hosts & hostesses, restaurant, lounge, & coffee shop","359031",8623.01,461.831,477.0
+2015,"Hosts & hostesses, restaurant, lounge, & coffee shop","359031",8603.38,330.686,478.0
+2014,"Counter attendants, cafeteria, food concession, & coffee shop","353022",8246.72,591.317,478.0

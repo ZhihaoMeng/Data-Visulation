@@ -1,0 +1,272 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+	color:#FFF;
+	text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+}
+
+.textcontainer{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:coral;
+	color:#fff;
+	text-align: center;
+}
+
+#navbar{
+	background-color:#333;
+	color:#fff;
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+}
+
+#showcase{
+	background-image:url('../images/showcase.jpg');
+	background-position:center right;
+	min-height:300px;
+	margin-bottom:30px;
+	text-align: center;
+}
+
+#showcase h1{
+	color:#fff;
+	font-size:50px;
+	line-height: 1.6em;
+	padding-top:30px;
+}
+
+#showcase p{
+	color:#fff;
+	font-size:26px;
+	line-height: 1.6em;
+	padding-top:30px;
+}
+
+#main{
+	float:left;
+	width:70%;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+#sidebar{
+	float:right;
+	width:30%;
+	background: #4768d4;
+	color:#fff;
+	padding:10px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 5px -1px 33px 5px rgba(0,0,0,0.61); 
+	box-shadow: 5px -1px 33px 5px rgba(0,0,0,0.61);
+	background: #1C6EA4;
+	background: -moz-radial-gradient(center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+	background: -webkit-radial-gradient(center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+	background: radial-gradient(ellipse at center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+
+}
+
+#leftbar{
+	float:left;
+	width:20%;
+	margin-left: 5%;
+	margin-top: 5%;
+	background: #4768d4;
+	color:#fff;
+	padding:10px;
+	box-sizing: border-box;
+	background: #1C6EA4;
+	background: -moz-radial-gradient(center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+	background: -webkit-radial-gradient(center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+	background: radial-gradient(ellipse at center, #1C6EA4 0%, #2388CB 45%, #144E75 100%);
+}
+#main-footer{
+	background: rgb(223, 133, 16);
+	color:#fff;
+	text-align: center;
+	padding:20px;
+	margin-top:40px;
+}
+
+@media(max-width:600px){
+	#main{
+		width:100%;
+		float:none;
+	}
+
+	#sidebar{
+		width:100%;
+		float:none;
+	}
+}
+
+  
+  div#layout {
+		margin-top: 5%;
+		text-align: center;
+  }
+  
+  div#container {
+	width: 60%;
+	height: 40em;
+	padding-left: 0%;
+	margin-left:30%; 
+	background-color: #2F4A6D;
+	-webkit-box-shadow: 5px -1px 33px 5px rgba(0,0,0,0.61); 
+	box-shadow: 5px -1px 33px 5px rgba(0,0,0,0.61);
+  }
+  
+  svg {
+	width: 100%;
+	height: 100%;
+  }
+	
+	svg .chart{
+		width:80%;
+		height:100%
+	}
+  .avg_wage_graph .bar {
+	fill: #80cbc4;
+  }
+  
+  text {
+	font-size: 12px;
+	fill: #fff;
+  }
+  
+  path {
+	stroke: gray;
+  }
+  
+  line {
+	stroke: gray;
+  }
+  
+  line#limit {
+	stroke: #FED966;
+	stroke-width: 3;
+	stroke-dasharray: 3 6;
+  }
+  
+  .grid path {
+	stroke-width: 0;
+  }
+  
+  .grid .tick line {
+	stroke: #9FAAAE;
+	stroke-opacity: 0.3;
+  }
+  
+  text.divergence {
+	font-size: 14px;
+	fill: #2F4A6D;
+  }
+  
+  text.value {
+	font-size: 14px;
+  }
+  
+  text.title {
+	font-size: 22px;
+	font-weight: 600;
+  }
+  
+  text.label {
+	font-size: 14px;
+	font-weight: 400;
+  }
+  
+  text.source {
+	font-size: 10px;
+	}
+	
+	#container p{
+		color:rgb(236, 230, 230);
+	}
+
+	.myButton {
+		color: rgb(255, 255, 255); font-size: 11px; line-height: 11px; padding: 7px; border-radius: 11px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+		.myButton:hover {
+		background: #1C6EA4; }
+		.myButton:active {
+		background: #144E75; }
+
+		#tooltip {
+			position: absolute;
+			width: 200px;
+			height: auto;
+			padding: 10px;
+			background-color: white;
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+			-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			pointer-events: none;
+		}
+		rect:hover {
+			fill: orange;
+		}
+		#tooltip.hidden {
+			display: none;
+		}
+		
+		#tooltip p {
+			margin: 0;
+			font-family: sans-serif;
+			font-size: 16px;
+			line-height: 20px;
+		}
+
+		.chart .legend {
+			fill: black;
+			font: 14px sans-serif;
+			text-anchor: start;
+			font-size: 12px;
+		}
+		
+		.chart text {
+			fill: white;
+			font: 10px sans-serif;
+			text-anchor: end;
+		}
+		
+		.chart .label {
+			fill: black;
+			font: 14px sans-serif;
+			text-anchor: end;
+		}
+		
+		.bar:hover {
+			fill: brown;
+		}
+		
+		.axis path,
+		.axis line {
+			fill: none;
+			stroke: #000;
+			shape-rendering: crispEdges;
+		}
+		

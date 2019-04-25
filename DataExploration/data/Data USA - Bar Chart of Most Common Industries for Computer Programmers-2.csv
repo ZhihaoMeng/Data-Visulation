@@ -1,0 +1,108 @@
+year,naics_name,naics,soc_name,soc,num_ppl,num_ppl_moe,avg_wage,avg_wage_moe
+2015,"Miscellaneous wood products","3219ZM","Computer programmers","151131",367,318.896,89628.1,30879.8
+2015,"Warehousing & storage","493","Computer programmers","151131",419,321.842,66109.7,32480.5
+2015,"Motor vehicle & motor vehicle parts & supplies merchant wholesalers","4231","Computer programmers","151131",429,367.189,68363.9,27491.4
+2015,"Libraries & archives","51912","Computer programmers","151131",430,304.178,56299.0,23754.6
+2015,"Animal slaughtering & processing","3116","Computer programmers","151131",463,350.671,87702.5,11708.5
+2015,"Industrial & miscellaneous chemicals","325M","Computer programmers","151131",472,353.738,74560.2,15936.1
+2015,"Clothing stores","4481","Computer programmers","151131",507,412.092,65185.6,22604.9
+2015,"Furniture & related product manufacturing","337","Computer programmers","151131",508,312.964,53309.4,16800.6
+2015,"Construction, & mining & oil & gas field machinery manufacturing ","3331M","Computer programmers","151131",509,403.162,72102.8,18180.1
+2015,"Aerospace products & parts manufacturing","33641M2","Computer programmers","151131",511,363.841,97704.6,14728.7
+2015,"Museums, art galleries, historical sites, & similar institutions","712","Computer programmers","151131",517,371.498,36359.2,16146.3
+2015,"Petroleum refining","32411","Computer programmers","151131",528,381.0,72904.5,25227.9
+2015,"Cement, concrete, lime, & gypsum product manufacturing ","327M","Computer programmers","151131",538,413.255,81750.0,39897.2
+2015,"Outpatient care centers","6214","Computer programmers","151131",560,371.112,59975.7,10229.7
+2015,"Restaurants & Food Services","722Z","Computer programmers","151131",584,434.733,88272.4,26528.0
+2015,"Other information services, except libraries & archives, & internet publishing & broadcasting & web search portals","5191ZM","Computer programmers","151131",590,392.773,209089.0,70248.2
+2015,"Miscellaneous nondurable goods merchant wholesalers","4249Z","Computer programmers","151131",594,520.626,79244.8,8876.73
+2015,"Iron & steel mills & steel product manufacturing","331M","Computer programmers","151131",617,415.484,77747.3,10033.2
+2015,"Mail-order houses","454113","Computer programmers","151131",638,530.836,58396.6,27497.1
+2015,"Investigation & security services","5616","Computer programmers","151131",639,379.699,53947.6,17773.8
+2015,"Electric & gas, and other combinations","221MP","Computer programmers","151131",649,415.049,74516.3,20399.9
+2015,"Newspaper publishers","51111","Computer programmers","151131",669,552.651,78674.8,27451.7
+2015,"Commercial & service industry machinery manufacturing","3333","Computer programmers","151131",688,492.149,85062.3,22135.2
+2015,"Support activities for mining","213","Computer programmers","151131",713,388.423,113181.0,21471.5
+2015,"Postal Service","491","Computer programmers","151131",764,461.93,84044.6,8264.15
+2015,"Legal services","5411","Computer programmers","151131",773,466.092,61543.4,17636.1
+2015,"Other administrative & other support services","561M","Computer programmers","151131",789,422.251,83043.5,19160.8
+2015,"Apparel, piece goods, & notions merchant wholesalers","4243","Computer programmers","151131",792,550.368,81845.8,20432.2
+2015,"Grocery & related product merchant wholesalers","4244","Computer programmers","151131",813,484.637,88273.8,9539.33
+2015,"Savings institutions, including credit unions ","5221M","Computer programmers","151131",814,390.508,90448.3,11486.4
+2015,"Not specified retail trade","4MS","Computer programmers","151131",823,593.063,68457.0,18350.0
+2015,"Drugs, sundries, & chemical & allied products merchant  wholesalers ","424M","Computer programmers","151131",831,396.269,97623.8,24032.3
+2015,"Administration of environmental quality & housing programs","92M1","Computer programmers","151131",855,553.014,78992.4,10009.8
+2015,"Machinery, equipment, & supplies merchant wholesalers     ","4238","Computer programmers","151131",862,576.358,83176.0,16505.2
+2015,"Miscellaneous fabricated metal products manufacturing","332MZ","Computer programmers","151131",891,659.702,62415.5,16564.4
+2015,"Metalworking machinery manufacturing","3335","Computer programmers","151131",972,476.324,55738.1,7928.94
+2015,"Offices of physicians","6211","Computer programmers","151131",1007,548.157,63804.5,15934.1
+2015,"Real estate","531","Computer programmers","151131",1010,559.841,61676.9,22194.0
+2015,"Communications, & audio & video equipment manufacturing","334M1","Computer programmers","151131",1038,692.43,114176.0,32206.2
+2015,"Management of companies & enterprises","55","Computer programmers","151131",1043,521.697,125867.0,31664.1
+2015,"Management of companies & enterprises","55","Computer programmers","151131",1043,521.697,125867.0,31664.1
+2015,"Household appliances & electrical & electronic goods merchant wholesalers","4236","Computer programmers","151131",1109,589.081,70710.2,15644.3
+2015,"Pharmacies & drug stores","44611","Computer programmers","151131",1121,639.598,96925.2,16719.5
+2015,"Structural metals, & boiler, tank, & shipping container manufacturing ","332M","Computer programmers","151131",1170,698.114,62256.8,17617.4
+2015,"Specialized design services","5414","Computer programmers","151131",1213,842.593,60541.4,21217.8
+2015,"Not specified manufacturing industries","3MS","Computer programmers","151131",1216,717.442,86518.2,50717.2
+2015,"Amusement & Recreation","713Z","Computer programmers","151131",1222,567.53,63427.5,16748.5
+2015,"Electric lighting & electrical equipment manufacturing, & other electrical component manufacturing, n.e.c.","335M","Computer programmers","151131",1251,630.285,71401.1,9107.12
+2015,"Individual & family services","6241","Computer programmers","151131",1291,699.366,64837.7,17249.2
+2015,"Electronic shopping","454111","Computer programmers","151131",1430,670.147,121046.0,60492.2
+2015,"Rail transportation","482","Computer programmers","151131",1474,1247.58,76738.0,10379.9
+2015,"Grocery Stores","4451","Computer programmers","151131",1525,906.425,137465.0,68931.8
+2015,"Department stores & discount stores","45211","Computer programmers","151131",1591,969.958,62690.1,15767.5
+2015,"Machine shops; turned product; screw, nut & bolt manufacturing  ","3327","Computer programmers","151131",1657,625.123,65411.5,11026.1
+2015,"Printing & related support activities","3231","Computer programmers","151131",1659,749.672,62027.1,6400.84
+2015,"Civic, social, advocacy organizations, & grantmaking & giving services","813M","Computer programmers","151131",1717,750.406,57571.6,17432.2
+2015,"Truck transportation","484","Computer programmers","151131",1738,988.348,63208.9,17974.0
+2015,"Services incidental to transportation","488","Computer programmers","151131",1782,906.812,90405.9,13431.7
+2015,"Travel arrangements & reservation services","5615","Computer programmers","151131",1797,839.583,77506.9,14535.6
+2015,"Other professional, scientific & technical services ","5419Z","Computer programmers","151131",1845,908.333,63367.4,12693.3
+2015,"Other schools & instruction and educational support services","611M3","Computer programmers","151131",1851,836.226,67125.7,16421.3
+2015,"Motion pictures & video industries","5121","Computer programmers","151131",1856,982.919,74995.0,15725.1
+2015,"Electric power generation, transmission & distribution","2211P","Computer programmers","151131",1871,893.075,83265.5,15609.0
+2015,"Professional & commercial equipment & supplies merchant wholesalers","4234","Computer programmers","151131",1958,889.579,70116.6,16814.0
+2015,"Couriers & messengers","492","Computer programmers","151131",2062,913.109,85659.1,6252.48
+2015,"Accounting, tax preparation, bookkeeping & payroll services","5412","Computer programmers","151131",2072,867.647,79159.3,14670.7
+2015,"Medical equipment & supplies manufacturing","3391","Computer programmers","151131",2083,1118.31,106811.0,16511.5
+2015,"Elementary & secondary schools","6111","Computer programmers","151131",2155,866.7,61239.2,6410.53
+2015,"Business support services","5614","Computer programmers","151131",2306,1060.77,67833.0,5816.61
+2015,"Miscellaneous manufacturing, n.e.c.  ","3399ZM","Computer programmers","151131",2370,1121.62,73939.8,10313.5
+2015,"Periodical, book, & directory publishers","5111Z","Computer programmers","151131",2406,936.01,101254.0,29821.5
+2015,"Public finance activities","92113","Computer programmers","151131",2417,779.707,78961.4,10706.5
+2015,"Pharmaceutical & medicine manufacturing","3254","Computer programmers","151131",2572,1056.13,102336.0,18559.4
+2015,"Administration of economic programs & space research","92M2","Computer programmers","151131",2579,965.592,68209.4,7154.24
+2015,"Employment services","5613","Computer programmers","151131",2642,1022.99,89532.8,25756.3
+2015,"Machinery manufacturing, n.e.c. or not specified","333MS","Computer programmers","151131",2747,1036.54,72675.5,13011.5
+2015,"Navigational, measuring, electromedical, & control instruments manufacturing","3345","Computer programmers","151131",2789,1231.2,81127.5,14024.7
+2015,"Aircraft & parts manufacturing","33641M1","Computer programmers","151131",2937,933.064,94430.8,11120.2
+2015,"Other health care services","621M","Computer programmers","151131",3265,1026.08,101947.0,19269.3
+2015,"Internet publishing, broadcasting & web search portals","51913","Computer programmers","151131",3323,1008.47,118742.0,30793.1
+2015,"Motor vehicles & motor vehicle equipment manufacturing","336M","Computer programmers","151131",3327,1112.34,72049.7,7898.73
+2015,"Advertising, public relations & related services","5418","Computer programmers","151131",3347,1319.66,65262.6,18130.0
+2015,"Construction","23","Computer programmers","151131",3348,1120.36,72118.8,11593.5
+2015,"Construction","23","Computer programmers","151131",3348,1120.36,72118.8,11593.5
+2015,"Construction","23","Computer programmers","151131",3348,1120.36,72118.8,11593.5
+2015,"Telecommunications, except wired telecommunications carriers ","517Z","Computer programmers","151131",3452,1250.51,69832.8,17249.5
+2015,"Administration of human resource programs","923","Computer programmers","151131",3590,1065.33,74348.2,7901.99
+2015,"Broadcasting (except internet)","515","Computer programmers","151131",3616,1411.02,59817.6,8975.66
+2015,"National security & international affairs","928P","Computer programmers","151131",3718,1501.44,77289.5,9752.24
+2015,"Justice, public order, & safety activities ","92MP","Computer programmers","151131",3897,1222.61,63588.7,5327.99
+2015,"Computer & peripheral equipment manufacturing","3341","Computer programmers","151131",4108,1352.05,109589.0,12494.2
+2015,"Software publishing","5112","Computer programmers","151131",4689,1875.17,72027.8,18980.0
+2015,"Architectural, engineering & related services","5413","Computer programmers","151131",5105,1510.01,93954.1,14847.1
+2015,"Executive offices & legislative bodies","9211MP","Computer programmers","151131",5264,1115.24,75528.2,10926.4
+2015,"Wired telecommunications carriers","5171","Computer programmers","151131",5575,1660.23,95938.8,10569.4
+2015,"Electronics stores","443142","Computer programmers","151131",5836,1594.35,91202.5,24592.7
+2015,"Data processing, hosting & related services","5182","Computer programmers","151131",5850,1557.67,75568.7,6456.23
+2015,"Nondepository credit & related activities","522M","Computer programmers","151131",6310,1426.29,106445.0,20465.7
+2015,"Electronic component & product manufacturing, n.e.c. ","334M2","Computer programmers","151131",6445,1728.05,111322.0,21394.6
+2015,"Scientific research & development services","5417","Computer programmers","151131",6530,1755.44,76145.7,8395.48
+2015,"Hospitals","622","Computer programmers","151131",8876,1890.77,74860.7,5554.23
+2015,"Securities, commodities, funds, trusts & other financial investments","52M2","Computer programmers","151131",8991,1798.99,127724.0,15106.4
+2015,"Management, scientific & technical consulting services","5416","Computer programmers","151131",12830,2583.72,82077.1,10955.2
+2015,"Banking & related activities","52M1","Computer programmers","151131",15367,2353.12,95675.1,6293.49
+2015,"Colleges, universities & professional schools, including junior colleges","611M1","Computer programmers","151131",19394,2816.51,60694.6,5249.45
+2015,"Insurance carriers & related activities","524","Computer programmers","151131",26094,3223.34,84850.7,3399.26
+2015,"Computer Systems Design","5415","Computer programmers","151131",125200,8934.2,81552.8,2889.66
