@@ -7,25 +7,41 @@
         <title>Computer Programer Employment Analysis</title>
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         
-        <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+        
         
     </head>
     <body>
+        
+    
+        <script src="https://d3js.org//d3.v3.min.js"></script>
+        <script>
+            d3version3 = d3
+            window.d3 = null
+        </script>
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script>
+            d3version5 = d3
+            window.d3 = null
+            // test it worked
+            
+        </script>
+
         <header id="main-header">
             <div class="textcontainer">
                 <h1>Computer Programer Party</h1>
-                <aside id="sidebar">
-                    <p>Data Visulation Project by Chong Meng</p>
-                </aside>
+                
+                    <h2>Data Visulation Project by Chong Meng</h2>
+                
             </div>
         </header>
         <section id="showcase">
             <div class="textcontainer">
-                <p>Computer programmers are most often employed by the Computer Systems Design industry. The average yearly wage for Computer programmers was $87,870 in 2016. The top 3 most similar occupations to Computer programmers by wage are Mechanical engineers, Materials engineers, and Public relations & fundraising managers.
+                <p>Computer programmers are most often employed by the Computer Systems Design industry. The average yearly wage for Computer programmers was $85,018 in 2016. The top 3 most similar occupations to Computer programmers by wage are Mechanical engineers, Materials engineers, and Public relations & fundraising managers.
 
                     Computer programmers are part of the Computer & mathematical occupations, along with Computer & information research scientists, Computer systems analysts, Information security analysts, Computer programmers, Web developers, Software developers, applications & systems software, Database administrators, Network & computer systems administrators, Computer network architects, Computer support specialists, Other Computer Occupations, Actuaries, Operations research analysts, and Miscellaneous mathematical science occupations, including mathematicians & statisticians
                     
-                    The top 3 locations that employ the most Computer programmers are Charlotte City (South) PUMA, NC, Middlesex County (Southwest) PUMA, NJ, and Irvine City (Central) PUMA, CA. The top 3 locations with a relatively high concentration of Computer programmers are Middlesex County (Southwest) PUMA, NJ, Charlotte City (South) PUMA, NC, and Apex & Holly Springs Towns PUMA, NC.
+                   
                 </p>
             </div>
         </section>
@@ -38,7 +54,10 @@
                     <p>In 2016, Computer programmers earned an average of $85,018, $34.953 more than than the average national salary of $50,065.
                         Public relations & fundraising managers make somewhat more than Computer programmers while Mechanical engineers make somewhat less. This chart shows the various occupations closest to Computer programmers as measured by average annual salary in the US.
                     The rank of average salary of computer programmers are 60(2014), 55(2015), 55(2016) respectively</p>
-            </aside>
+                    <div>
+                        <p style="color: yellow">Put mouse over the bar to see exact value and difference</p>
+                    </div>
+                </aside>
 
             <div id='container'>
                     <p><strong><em>year of data:</em></strong>
@@ -59,7 +78,10 @@
                 <h3>0.309</h3>
                 <h4>WAGE GINI</h4>
                     <p>In 2016, Computer programmers had a wage GINI coefficient of 0.309, which is lower than than the national average of 0.479. In other words, wages are distributed more evenly for Computer programmers (shown in orange) than for the overall labor force (shown in blue).</p>
-            </aside>
+                    <div>
+                            <p style="color: yellow">Put mouse over the bar to see exact value</p>
+                        </div>
+                </aside>
             
             <div id='container'>
                     
@@ -79,33 +101,107 @@
                 <aside id="leftbar">
                         <h2><em>Industry by Share</em></h2>
                         <div style="clear: both">
-                                <h4 style="float: left">work force:419k</h4>
-                                <h4 style="float: right">1 year growth:-0.844%</h4>    
+                                <h4 style="float: left">work force:430k(2014)</h4>
+                                <h4 style="float: right">1 year growth:-0.945%</h4>    
                         </div>
                         <br>
                         <br>
                         <br>
                         <div>
-                        <p>The number of people employed as Computer programmers has been declining at a rate of -0.844%, from 422,435 people in 2015 to 418,869 people in 2016.
-                                This graphic shows the share of Computer programmers employed by various industries. Computer Systems Design employs the largest share of Computer programmers at  30.7%, followed by Insurance carriers & related activities with 5.64% and Banking & related activities with 4.64%.</p>
+                        <p>The number of people employed as Computer programmers has been declining at a rate of -0.945%, from 426,464 people in 2015 to 422,435 people in 2016.
+                                This graphic shows the share of Computer programmers employed by various industries. Computer Systems Design employs the largest share of Computer programmers at  30.00%, followed by Insurance carriers & related activities with 6.50%.</p>
+                        </div>
+                        <div>
+                                <p style="color: yellow">You can click on the specific year to see the detail</p>
                         </div>
                     </aside>
                 
                 <div id='container'>
-                        
                     
-                        <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
-                        <script src="https://d3plus.org/js/d3plus.js"></script>
+                       <script>d3 = d3version3</script>
+                        <script type="text/javascript" src="https://d3plus.org/js/d3plus.js"></script>
                         <div id="viz"></div>
-                        <script type="text/javascript" src="data/industry_treemap.json"></script>
-                        <script src='js/industry_treemap.js'></script>
-                                
-                            
 
-                    
-                
+                        <script src='js/industry_treemap.js'></script>
                 </div>
             </div>
+            <br>
+            <div id='layout'>
+                    <!-- <h2>Bar chart example</h2> -->
+                    <aside id="leftbar">
+                            <h2><em>Major Analysis</em></h2>
+                            <h4>Let's see what's the majors of computer programmers</h4>
+                            <p><em>most common majors</em></p>
+                            <ol>
+                                <li style="text-align: left">Computer and Information Sciences and Support Services</li>
+                                
+                                <li style="text-align: left">Engineering</li>
+                             
+                                <li style="text-align: left">Business</li>
+                            </ol>
+            
+                            <br>
+                            <div>
+                            
+                            </div>
+                            <div>
+                                <p style="color: yellow">You can click on the specific year to see the detail</p>
+                            </div>
+                        </aside>
+                    
+                    <div id='container'>
+                            
+                            <div id="major_viz"></div>
+                            <script src='js/major_treemap.js'></script>
+                           
+                    </div>
+                </div>
+                <br>
+                <div id='layout'>
+                        <!-- <h2>Bar chart example</h2> -->
+                        <aside id="leftbar">
+                                <h2><em>Age Analysis</em></h2>
+                                <h4>The multiple line chart at right show the age distribution of computer programmers</h4>
+                                <p><em>From the chart we can see that male employees are generally 3 times more than their Female counterparts  at every age.</em></p>
+                                <br>
+                                <div>
+                                
+                                </div>
+                                <div>
+                                    <p style="color: yellow">You can click on the specific line to see distribution of male and female each year</p>
+                                </div>
+                            </aside>
+                        
+                        <div id='container'>
+                                
+                                <div id="age_viz" ></div>
+                                <script src='js/age_dist.js'></script>
+                               
+                        </div>
+                    </div>
+                    <br>
+                    <div id='layout'>
+                            <!-- <h2>Bar chart example</h2> -->
+                            <aside id="leftbar">
+                                    <h2><em>SKILL</em></h2>
+                                    <h4>What's the most important skills to be a good computer programmer?</h4>
+                                    <p><em>We visulaze the general <em>importance</em> and <em>the revealed comparative advantage(RCA)</em> of these skills. It shows that the Programming,Operations Analysis and Technology Design are most valuable skills.</em></p>
+                                    <br>
+                                    <div>
+                                    
+                                    </div>
+                                    <div>
+                                        <p style="color: yellow">You can click on the specific line to see distribution of male and female each year</p>
+                                    </div>
+                                </aside>
+                            
+                            <div id='container'>
+                                    
+                                    <div id="radar_viz" ></div>
+                                    <script src='js/skill_radar.js'></script>
+                                   
+                            </div>
+                        </div>
         <footer id="main-footer">
             <p>Copyright &copy; 2019 My Website
                 <strong>cpsc 8040</strong> <em>visualization</em>

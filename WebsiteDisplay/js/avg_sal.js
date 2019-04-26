@@ -145,6 +145,7 @@ const data16 = [
 
 
 function update_1(data){
+    d3 = d3version5;
     d3.selectAll('.avg_wage_graph rect')
     .transition()
     .duration(1000)
@@ -322,5 +323,7 @@ svg.append('text')
     .attr('y', height + margin * 1.7)
     .attr('text-anchor', 'start')
     .text('Source: DataUSA')
+
+    d3 = d3version3;
     }
 update_1(data14);

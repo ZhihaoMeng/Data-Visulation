@@ -65,6 +65,7 @@ var dist14 = {
   };
 
   function update_2(data){
+    d3 = d3version5;
     d3.selectAll('.wage_dist_graph rect')
     .transition()
     .duration(1000)
@@ -159,7 +160,6 @@ const chart = svg.append('g')
                .attr("font-family", "sans-serif")
                .attr("font-size", "11px")
                .attr("font-weight", "bold")
-               .attr("fill", "black")
                .text(d);
 
        })
@@ -260,6 +260,7 @@ const chart = svg.append('g')
     .attr('y', chartHeight + margin * 0.7)
     .attr('text-anchor', 'start')
     .text('Source: DataUSA')
+    d3 = d3version3;
     }
 
     update_2(dist14)
