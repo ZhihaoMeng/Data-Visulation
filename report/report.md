@@ -200,7 +200,7 @@ If you click on one of the line, you will be redirect to the detail of that year
 
  ## future work
 
-I still not able to make the geomap work. The geomap will show us very informative content such as wage-location mapping that tell us the better choice for settling us dowm. The geopy is not working for the city name in my dataset and I'm running out of time to explore the shapefile world. 
+I'm still not able to make the geomap work. The geomap will show us very informative content such as wage-location mapping that tell us the better choice for settling us dowm. The geopy is not working for the city name in my dataset and I'm running out of time to explore the shapefile world. 
 
 ## software used
 
